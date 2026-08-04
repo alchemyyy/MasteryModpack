@@ -1,0 +1,6 @@
+["Datapack Registration"]
+	#Uses an alternative noise for the Aether. By default, this is disabled with the Ancient Aether mod installed.
+	#Allowed Values: ALWAYS_TRUE, ALWAYS_FALSE, WITHOUT_ANCIENT_AETHER
+	"Redux Noise" = "without_ancient_aether"
+	#Upgrades the Bronze Dungeon structure with new blocks and more depth
+	"Bronze Dungeon Upgrade" = true

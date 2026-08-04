@@ -1,0 +1,190 @@
+mod_name,status,reason,curseforge_slug,modrinth_slug,curseforge_version,modrinth_version,curseforge_compare_version,modrinth_compare_version,curseforge_file,modrinth_file,curseforge_date,modrinth_date
+Architectury API,EQUAL,compare versions are equal,architectury-api,architectury-api,13.0.8,13.0.8+neoforge,13.0.8,13.0.8,,architectury-13.0.8-neoforge.jar,,2024-10-05T19:24:08.875561Z
+Balm,MODRINTH_HIGHER,Modrinth compare version is greater than CurseForge,balm,balm,21.0.56,21.0.58+neoforge-1.21.1,21.0.56,21.0.58,,balm-neoforge-1.21.1-21.0.58.jar,,2026-05-08T06:24:15.195963Z
+Blueprint,EQUAL,compare versions are equal,blueprint,blueprint,8.1.0,8.1.0,8.1.0,8.1.0,,blueprint-1.21.1-8.1.0.jar,,2026-05-06T15:37:43.442439Z
+Bookshelf,EQUAL,compare versions are equal,bookshelf,bookshelf-lib,21.1.81,21.1.81,21.1.81,21.1.81,,bookshelf-neoforge-1.21.1-21.1.81.jar,,2026-02-10T22:44:22.165059Z
+Caelus API,EQUAL,compare versions are equal,caelus,caelus,7.0.1+1.21.1,7.0.1+1.21.1,7.0.1,7.0.1,,caelus-neoforge-7.0.1+1.21.1.jar,,2024-09-05T07:16:42.216168Z
+Cloth Config API,EQUAL,compare versions are equal,cloth-config,cloth-config,15.0.140,15.0.140+neoforge,15.0.140,15.0.140,,cloth-config-15.0.140-neoforge.jar,,2024-09-16T17:18:02.926305Z
+CoroUtil,CURSEFORGE_HIGHER,CurseForge compare version is greater than Modrinth,coroutil,coroutil,1.3.9,1.21.0-1.3.8,1.3.9,1.3.8,,coroutil-neoforge-1.21.0-1.3.8.jar,,2024-09-14T12:38:45.647812Z
+Cupboard,SKIPPED,missing Modrinth project,cupboard,,3.5,,3.5,,,,,
+Curios API,EQUAL,compare versions are equal,curios,curios,9.5.1+1.21.1,9.5.1+1.21.1,9.5.1,9.5.1,,curios-neoforge-9.5.1+1.21.1.jar,,2025-05-14T13:34:47.415840Z
+Cyclops Core,EQUAL,compare versions are equal,cyclops-core,cyclops-core,1.29.1,1.21.1-1.29.1,1.29.1,1.29.1,,cyclopscore-1.21.1-neoforge-1.29.1.jar,,2026-04-28T17:52:30.646762Z
+GeckoLib,EQUAL,compare versions are equal,geckolib,geckolib,4.8.4,4.8.4,4.8.4,4.8.4,,geckolib-neoforge-1.21.1-4.8.4.jar,,2026-03-03T20:06:25.035771Z
+GlitchCore,EQUAL,compare versions are equal,glitchcore,glitchcore,2.1.0.2,2.1.0.2,2.1.0.2,2.1.0.2,,GlitchCore-neoforge-1.21.1-2.1.0.2.jar,,2026-05-18T17:16:27.870194Z
+Glodium,EQUAL,compare versions are equal,glodium,glodium,2.2,1.21-2.2-neoforge,2.2,2.2,,Glodium-1.21-2.2-neoforge.jar,,2025-02-04T13:09:39.978003Z
+GuideME,EQUAL,compare versions are equal,guideme,guideme,21.1.16,21.1.16,21.1.16,21.1.16,,guideme-21.1.16.jar,,2026-05-22T21:56:14.727466Z
+JamLib,EQUAL,compare versions are equal,jamlib,jamlib,1.3.6+1.21.1,1.3.6+1.21.1,1.3.6,1.3.6,,jamlib-neoforge-1.3.6+1.21.1.jar,,2026-03-16T13:34:30.546553Z
+Json Things,SKIPPED,missing Modrinth project,json-things,,0.13.7,,0.13.7,,,,,
+Kotlin for Forge,EQUAL,compare versions are equal,kotlin-for-forge,kotlin-for-forge,5.11.0,5.11.0,5.11.0,5.11.0,,kotlinforforge-5.11.0-all.jar,,2026-01-17T01:22:52.020905Z
+libIPN,EQUAL,compare versions are equal,libipn,libipn,6.6.3,neoforge-1.21.1-6.6.3,6.6.3,6.6.3,,libIPN-neoforge-1.21.1-6.6.3.jar,,2026-03-25T11:26:18.704020Z
+Moog's Structure Lib,EQUAL,compare versions are equal,moogs-structure-lib,moogs-structure-lib,2.0.2,2.0.2,2.0.2,2.0.2,,moogs_structures-neoforge-1.21.1-2.0.2.jar,,2026-04-14T14:31:27.184354Z
+Moonlight Lib,CURSEFORGE_HIGHER,CurseForge compare version is greater than Modrinth,selene,moonlight,3.0.16,1.21.1-3.0.14,3.0.16,3.0.14,,moonlight-neoforge-1.21.1-3.0.14.jar,,2026-05-22T20:56:51.422812Z
+o?o (owo-lib),MODRINTH_HIGHER,Modrinth compare version is greater than CurseForge,owo-lib,owo-lib,0.12.15.5,0.12.15.5-beta.1+1.21,0.12.15.5,0.12.15.5.beta.1,,owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar,,2025-07-19T00:45:19.909132Z
+Patchouli,EQUAL,compare versions are equal,patchouli,patchouli,93,1.21.1-93-neoforge,93,93,,Patchouli-1.21.1-93-NEOFORGE.jar,,2026-03-08T20:49:51.469086Z
+Placebo,NO_MODRINTH_MATCH,no 1.21.1 neoforge Modrinth version found,placebo,placebo,,,,,,,,
+Prickle,EQUAL,compare versions are equal,prickle,prickle,21.1.11,21.1.11,21.1.11,21.1.11,,prickle-neoforge-1.21.1-21.1.11.jar,,2025-09-04T03:19:44.476257Z
+Puzzles Lib,MODRINTH_HIGHER,Modrinth compare version is greater than CurseForge,puzzles-lib,puzzles-lib,21.1.50,v21.1.51-1.21.1-NeoForge,21.1.50,21.1.51,,PuzzlesLib-v21.1.51-1.21.1-NeoForge.jar,,2026-05-30T07:23:53.825937Z
+Resourceful Config,EQUAL,compare versions are equal,resourceful-config,resourceful-config,3.0.11,3.0.11,3.0.11,3.0.11,,resourcefulconfig-neoforge-1.21-3.0.11.jar,,2025-04-26T17:59:04.789908Z
+Resourceful Lib,EQUAL,compare versions are equal,resourceful-lib,resourceful-lib,3.0.12,3.0.12,3.0.12,3.0.12,,resourcefullib-neoforge-1.21-3.0.12.jar,,2024-12-08T04:44:13.631452Z
+Scalable Cat's Force,EQUAL,compare versions are equal,scalable-cats-force,scalable-cats-force,11,3.7.1-build-11,3.7.1,3.7.1,,ScalableCatsForce-NeoForge-3.7.1-build-11-with-library.jar,,2025-07-06T13:52:50.961619Z
+Searchables,EQUAL,compare versions are equal,searchables,searchables,1.0.2,1.0.2,1.0.2,1.0.2,,Searchables-neoforge-1.21.1-1.0.2.jar,,2024-10-21T20:44:51.147209Z
+Sophisticated Core,EQUAL,compare versions are equal,sophisticated-core,sophisticated-core,1.4.42.1892,1.21.1-1.4.42.1892,1.4.42.1892,1.4.42.1892,,sophisticatedcore-1.21.1-1.4.42.1892.jar,,2026-05-25T21:04:40.116565Z
+SuperMartijn642's Core Lib,EQUAL,compare versions are equal,supermartijn642s-core-lib,supermartijn642s-core-lib,1.1.21,1.1.21-neoforge-mc1.21,1,1,,supermartijn642corelib-1.1.21-neoforge-mc1.21.jar,,2026-03-20T03:53:20.638641Z
+U Team Core,EQUAL,compare versions are equal,u-team-core,u-team-core,5.6.2.384,5.6.2.384,5.6.2.384,5.6.2.384,,u_team_core-neoforge-1.21.1-5.6.2.384.jar,,2025-05-19T18:42:39.737527Z
+YUNG's API,EQUAL,compare versions are equal,yungs-api-neoforge,yungs-api,5.1.6,1.21.1-NeoForge-5.1.6,5.1.6,5.1.6,,YungsApi-1.21.1-NeoForge-5.1.6.jar,,2025-07-01T07:08:10.097748Z
+Zero CORE 2,CURSEFORGE_HIGHER,CurseForge compare version is greater than Modrinth,zerocore,zerocore,2.4.21,1.21.1-2.4.9,2.4.21,2.4.9,,ZeroCore2-1.21.1-2.4.9.jar,,2024-09-18T04:55:08.337354Z
+Iris Shaders,EQUAL,compare versions are equal,iris,iris,1.8.12+mc1.21.1,1.8.12+1.21.1-neoforge,1.8.12,1.8.12,,iris-neoforge-1.8.12+mc1.21.1.jar,,2025-06-17T15:51:56.477905Z
+Jade Addons,EQUAL,compare versions are equal,jade-addons,jade-addons-forge,6.1.0,6.1.0+neoforge,6.1.0,6.1.0,,JadeAddons-1.21.1-NeoForge-6.1.0.jar,,2025-03-17T11:51:01.569432Z
+Just Enough Effects Descriptions,EQUAL,compare versions are equal,just-enough-effect-descriptions-jeed,just-enough-effect-descriptions-jeed,2.3.2,1.21-2.3.2,2.3.2,2.3.2,,jeed-1.21-2.3.2.jar,,2025-12-17T20:43:45.666641Z
+AppleSkin,EQUAL,compare versions are equal,appleskin,appleskin,3.0.9+mc1.21,3.0.9+mc1.21,3.0.9,3.0.9,,appleskin-neoforge-mc1.21-3.0.9.jar,,2026-04-01T04:50:54.655459Z
+BadOptimizations,EQUAL,compare versions are equal,badoptimizations,badoptimizations,2.4.1,2.4.1,2.4.1,2.4.1,,BadOptimizations-2.4.1-1.21.1.jar,,2025-12-15T23:15:19.530081Z
+biomemusic mod,SKIPPED,missing Modrinth project,biome-music,,3.5,,3.5,,,,,
+Borderless Window,EQUAL,compare versions are equal,borderless,borderless-window,1,1.7.5_1,1.7.5.1,1.7.5.1,,borderless-neoforge-1.21.1-1.7.5_1-all.jar,,2026-02-10T13:52:51.140747Z
+Build Guide,EQUAL,compare versions are equal,build-guide,build-guide,0.4.8,0.4.8-1.21,0.4.8,0.4.8,,BuildGuide-1.21-0.4.8.jar,,2026-02-06T20:28:54.786649Z
+Bad Wither No Cookie Reloaded,EQUAL,compare versions are equal,bad-wither-no-cookie-reloaded,bad-wither-no-cookie,3.20.4,3.20.4,3.20.4,3.20.4,,bwncr-neoforge-1.21.1-3.20.4.jar,,2026-05-23T23:36:01.526622Z
+ClearWater,EQUAL,compare versions are equal,clear-water,clear-water,3.0.0,3.0.0,3.0.0,3.0.0,,clearwater-neoforge-1.21-3.0.0.jar,,2024-12-05T23:01:11.821402Z
+Clickable Advancements mod,SKIPPED,missing Modrinth project,clickable-advancements,,3.8,,3.8,,,,,
+clientcrafting mod,SKIPPED,missing Modrinth project,client-crafting,,2.1,,2.1,,,,,
+Colorful Hearts,EQUAL,compare versions are equal,colorful-hearts,colorful-hearts,10.5.9,10.5.9,10.5.9,10.5.9,,colorfulhearts-neoforge-1.21.1-10.5.9.jar,,2025-07-30T22:33:27.866170Z
+Configured,SKIPPED,missing Modrinth project,configured,,2.6.3,,2.6.3,,,,,
+Controlling,EQUAL,compare versions are equal,controlling,controlling,19.0.5,19.0.5,19.0.5,19.0.5,,Controlling-neoforge-1.21.1-19.0.5.jar,,2025-03-30T23:44:43.868835Z
+Dark Mode Everywhere,EQUAL,compare versions are equal,dark-mode-everywhere,dark-mode-everywhere,1.3.5,1.21-1.3.5,1.3.5,1.3.5,,darkmodeeverywhere-1.21-1.3.5.jar,,2025-04-27T12:00:52.381801Z
+Extreme Sound Muffler,EQUAL,compare versions are equal,extreme-sound-muffler,extreme_sound_muffler,3.56,3.56-1.21.1,3.56,3.56,,ExtremeSoundMuffler-3.56_NeoForge-1.21.jar,,2026-04-08T17:40:13.083515Z
+Fallingleaves,EQUAL,compare versions are equal,falling-leaves-forge,fallingleavesforge,2.5.1,1.21.1-2.5.1,2.5.1,2.5.1,,fallingleaves-1.21.1-2.5.1.jar,,2025-02-26T20:37:54.533055Z
+Farsight mod,SKIPPED,missing Modrinth project,farsight,,4.5,,4.5,,,,,
+FlickerFix,EQUAL,compare versions are equal,flickerfix,flickerfix,6.0.0,6.0.0,6.0.0,6.0.0,,flickerfix-1.21.0.jar,,2024-06-13T19:00:34.446329Z
+Jade,EQUAL,compare versions are equal,jade,jade,15.10.5+neoforge,15.10.5+neoforge,15.10.5,15.10.5,,Jade-1.21.1-NeoForge-15.10.5.jar,,2026-01-29T11:11:50.997205Z
+KeybindsPurger,EQUAL,compare versions are equal,keybindspurger,keybindspurger,1.4.0,1.4.0,1.4.0,1.4.0,,KeybindsPurger-1.4.0-neoforge-1.21.1.jar,,2026-03-09T11:04:55.954626Z
+Light Overlay,NO_MODRINTH_MATCH,no 1.21.1 neoforge Modrinth version found,light-overlay,light-overlay,,,,,,,,
+Longer Chat History,EQUAL,compare versions are equal,longer-chat-history,longer-chat-history,1.7,1.7,1.7,1.7,,LongerChatHistory-neoforge-1.7.jar,,2025-04-08T16:36:19.140272Z
+Model Gap Fix,EQUAL,compare versions are equal,model-gap-fix,modelfix,1.10,1.21-1.10,1.10,1.10,,modelfix-1.21-1.10.jar,,2024-08-03T01:05:40.033506Z
+Mouse Tweaks,EQUAL,compare versions are equal,mouse-tweaks,mouse-tweaks,2.26.1,1.21-2.26.1-neoforge,2.26.1,2.26.1,,MouseTweaks-neoforge-mc1.21-2.26.1.jar,,2024-08-17T15:54:27.801812Z
+OAuth Account Manager,EQUAL,compare versions are equal,oauth-account-manager,oauth-account-manager,1.0.1.6,1.0.1.6,1.0.1.6,1.0.1.6,,oauth-account-manager-neoforge-1.21.1-1.0.1.6.jar,,2025-05-22T18:47:17.239555Z
+OverloadedArmorBar,NO_MODRINTH_MATCH,no 1.21.1 neoforge Modrinth version found,overloaded-armor-bar,overloaded-armor-bar,,,,,,,,
+Sound Physics Remastered,EQUAL,compare versions are equal,sound-physics-remastered,sound-physics-remastered,1.5.1,neoforge-1.21.1-1.5.1,1.5.1,1.5.1,,sound-physics-remastered-neoforge-1.21.1-1.5.1.jar,,2025-09-25T14:30:18.415525Z
+Toast Control,SKIPPED,missing Modrinth project,toast-control,,9.0.1,,9.0.1,,,,,
+WI Zoom,EQUAL,compare versions are equal,wi-zoom,wi-zoom,1.6,1.6-MC1.21.1-NeoForge,1.6,1.6,,WI-Zoom-1.6-MC1.21.1-NeoForge.jar,,2025-03-10T15:13:04.866474Z
+Sodium,MODRINTH_HIGHER,Modrinth compare version is greater than CurseForge,sodium,sodium,0.6.13+mc1.21.1,mc1.21.1-0.8.12-alpha.4-neoforge,0.6.13,0.8.12.alpha.4,,sodium-neoforge-0.8.12-alpha.4+mc1.21.1.jar,,2026-05-25T13:19:01.387557Z
+EntityCulling,EQUAL,compare versions are equal,entityculling,entityculling,1.10.2,1.10.2,1.10.2,1.10.2,,entityculling-neoforge-1.10.2-mc1.21.1.jar,,2026-05-07T17:02:07.192469Z
+Fast IP Ping,EQUAL,compare versions are equal,fast-ip-ping,fast-ip-ping,1.0.11,v1.0.11-mc1.21.1-neoforge,1.0.11,1.0.11,,fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar,,2026-04-16T18:16:34.805553Z
+Gpu memory leak fix,SKIPPED,missing Modrinth project,fix-gpu-memory-leak,,1.8,,1.8,,,,,
+ImmediatelyFast,EQUAL,compare versions are equal,immediatelyfast,immediatelyfast,1.6.10+1.21.1,1.6.10+1.21.1-neoforge,1.6.10,1.6.10,,ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar,,2026-01-27T21:12:05.910461Z
+Alternate Current,EQUAL,compare versions are equal,alternate-current,alternate-current,1.9.0,neoforge-mc1.21-1.9.0,1.9.0,1.9.0,,alternate_current-mc1.21-1.9.0.jar,,2024-08-26T15:07:41.355551Z
+Clumps,EQUAL,compare versions are equal,clumps,clumps,19.0.0.1,19.0.0.1,19.0.0.1,19.0.0.1,,Clumps-neoforge-1.21.1-19.0.0.1.jar,,2024-08-13T07:49:19.491766Z
+FastFurnace,SKIPPED,missing Modrinth project,fastfurnace,,9.0.1,,9.0.1,,,,,
+Fast Suite,SKIPPED,missing Modrinth project,fastsuite,,6.0.7,,6.0.7,,,,,
+Fast Workbench,SKIPPED,missing Modrinth project,fastworkbench,,9.1.3,,9.1.3,,,,,
+Ferrite Core,EQUAL,compare versions are equal,ferritecore,ferrite-core,7.0.3,7.0.3-neoforge,7.0.3,7.0.3,,ferritecore-7.0.3-neoforge.jar,,2026-01-25T12:59:45.271417Z
+ModernFix,EQUAL,compare versions are equal,modernfix,modernfix,5.27.11+mc1.21.1,5.27.11+mc1.21.1,5.27.11,5.27.11,,modernfix-neoforge-5.27.11+mc1.21.1.jar,,2026-05-25T03:11:54.221846Z
+Noisium,EQUAL,compare versions are equal,noisium,noisium,2.3.0+mc1.21,2.3.0+mc1.21-1.21.1,2.3.0,2.3.0,,noisium-neoforge-2.3.0+mc1.21-1.21.1.jar,,2024-08-21T17:24:16.092924Z
+ScalableLux,EQUAL,compare versions are equal,scalablelux,scalablelux,0.1.0.1+neoforge.1cb1e91,0.1.0.1+neoforge.1cb1e91,0.1.0.1,0.1.0.1,,ScalableLux-0.1.0.1+neoforge.1cb1e91-all.jar,,2025-09-01T14:03:46.530625Z
+Structure Essentials mod,SKIPPED,missing Modrinth project,structure-essentials-forge-fabric,,5.0,,5.0,,,,,
+ControlledLeafDecay,SKIPPED,missing Modrinth project,ControlledLeafDecay,,1.0.0,,1.0.0,,,,,
+AlmostUnified,EQUAL,compare versions are equal,almostunified,almostunified,1.4.2,1.21.1-1.4.2+neoforge,1.4.2,1.4.2,,almostunified-neoforge-1.21.1-1.4.2.jar,,2026-05-22T13:21:55.264117Z
+Clean Swing,SKIPPED,missing Modrinth project,clean-swing-through-grass,,1.9,,1.9,,,,,
+Easy Anvils,EQUAL,compare versions are equal,easy-anvils,easy-anvils,21.1.0,v21.1.0-1.21.1-NeoForge,21.1.0,21.1.0,,EasyAnvils-v21.1.0-1.21.1-NeoForge.jar,,2024-09-18T10:12:39.832604Z
+FastLeafDecay,SKIPPED,missing Modrinth project,fast-leaf-decay,,35,,35,,,,,
+Feature Recycler,EQUAL,compare versions are equal,feature-recycler,feature-recycler,2.0.0,2.0.0-neoforge,2.0.0,2.0.0,,Feature-Recycler-neoforge-2.0.0.jar,,2024-10-21T00:03:55.547954Z
+Hey Berry! SHUT UP,EQUAL,compare versions are equal,heyberryshutup,heyberryshutup,2.0.4,1.21.0-2.0.4,2.0.4,2.0.4,,heyberryshutup-1.21.0-2.0.4.jar,,2024-08-14T14:53:41.187708Z
+Inventory Profiles Next,EQUAL,compare versions are equal,inventory-profiles-next,inventory-profiles-next,2.2.5,neoforge-1.21.1-2.2.5,2.2.5,2.2.5,,InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar,,2026-03-25T11:32:35.997294Z
+JAOPCA,EQUAL,compare versions are equal,jaopca,jaopca,5.0.13.21,1.21.1-5.0.13.21,5.0.13.21,5.0.13.21,,JAOPCA-1.21.1-5.0.13.21.jar,,2026-03-10T08:27:47.427639Z
+KleeSlabs,EQUAL,compare versions are equal,kleeslabs,kleeslabs,21.1.11,21.1.11+neoforge-1.21.1,21.1.11,21.1.11,,kleeslabs-neoforge-1.21.1-21.1.11.jar,,2026-05-29T06:30:49.518563Z
+Load My F***ing Tags,EQUAL,compare versions are equal,lmft,lmft,1.1.1+1.21.9,1.1.1+1.21.9,1.1.1,1.1.1,,lmft-1.1.1+1.21.9-neoforge.jar,,2025-10-08T22:06:50.914361Z
+NetherPortalFix,EQUAL,compare versions are equal,netherportalfix,netherportalfix,21.1.1,21.1.1+neoforge-1.21.1,21.1.1,21.1.1,,netherportalfix-neoforge-1.21.1-21.1.1.jar,,2024-08-13T05:54:04.373338Z
+No Chat Reports,EQUAL,compare versions are equal,no-chat-reports,no-chat-reports,2.9.1,NeoForge-1.21.1-v2.9.1,2.9.1,2.9.1,,NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar,,2024-11-08T18:15:55.547255Z
+Packet Fixer,MODRINTH_HIGHER,Modrinth compare version is greater than CurseForge,packet-fixer,packet-fixer,1.20.5,3.3.1,1.20.5,3.3.1,,packetfixer-3.3.1-1.20.5-1.21.X-merged.jar,,2025-11-14T17:35:24.203663Z
+Polymorph,EQUAL,compare versions are equal,polymorph,polymorph,1.1.0+1.21.1,1.1.0+1.21.1,1.1.0,1.1.0,,polymorph-neoforge-1.1.0+1.21.1.jar,,2025-07-21T10:56:19.716302Z
+Right Click Harvest,EQUAL,compare versions are equal,rightclickharvest,rightclickharvest,4.6.1+1.21.1,4.6.1+1.21.1,4.6.1,4.6.1,,rightclickharvest-neoforge-4.6.1+1.21.1.jar,,2026-01-22T20:46:08.449588Z
+Smarter Farmers,EQUAL,compare versions are equal,smarter-farmers-farmers-replant,smarter-farmers-farmers-replant,2.2.4,1.21-2.2.4,2.2.4,2.2.4,,smarterfarmers-1.21-2.2.4-neoforge.jar,,2025-10-18T13:10:38.686495Z
+TiltBreak,EQUAL,compare versions are equal,tilt-break,tilt-break,3.0,3.0nf,3.0,3.0,,TiltBreak-1.21.1-3.0-NF.jar,,2025-03-23T06:44:34.844313Z
+Too Fast,CURSEFORGE_HIGHER,CurseForge compare version is greater than Modrinth,too-fast,too-fast,0.4.3.6,0.4.3.5,0.4.3.6,0.4.3.5,,toofast-1.21.0-0.4.3.5.jar,,2025-02-02T01:32:06.269912Z
+SecurityCraft,EQUAL,compare versions are equal,security-craft,security-craft,1.10.1,v1.10.1,1.10.1,1.10.1,,[1.21.1] SecurityCraft v1.10.1.jar,,2025-10-25T15:25:35.234952Z
+QuarryPlus,EQUAL,compare versions are equal,additional-enchanted-miner,additional-enchanted-miner,21.1.153,21.1.153,21.1.153,21.1.153,,AdditionalEnchantedMiner-1.21.1-neoforge-21.1.153.jar,,2026-04-29T04:24:51.892862Z
+Additional Lanterns,EQUAL,compare versions are equal,additional-lanterns,additional-lanterns,1.1.2,1.1.2-neoforge-mc1.21,1.1.2,1.1.2,,additionallanterns-1.1.2-neoforge-mc1.21.jar,,2025-07-15T01:33:51.334881Z
+The Aether,SKIPPED,missing CurseForge slug,,aether,,,,,,,,
+Amendments,EQUAL,compare versions are equal,amendments,amendments,2.0.15,1.21-2.0.15-neoforge,2.0.15,2.0.15,,amendments-1.21-2.0.15-neoforge.jar,,2026-01-14T22:57:50.718038Z
+Applied Energistics 2,EQUAL,compare versions are equal,applied-energistics-2,ae2,19.2.17,19.2.17,19.2.17,19.2.17,,appliedenergistics2-19.2.17.jar,,2025-09-23T23:32:37.609648Z
+Ars Nouveau,EQUAL,compare versions are equal,ars-nouveau,ars-nouveau,5.11.6,5.11.6,5.11.6,5.11.6,,ars_nouveau-1.21.1-5.11.6.jar,,2026-05-27T01:58:01.421539Z
+Bibliocraft Legacy,EQUAL,compare versions are equal,bibliocraft-legacy,bibliocraft-legacy,1.6.5,1.21.1-1.6.5,1.6.5,1.6.5,,bibliocraft-1.21.1-1.6.5.jar,,2026-03-11T00:26:52.691418Z
+CC: Tweaked,MODRINTH_HIGHER,Modrinth compare version is greater than CurseForge,cc-tweaked,cc-tweaked,1.113.1,1.119.0,1.113.1,1.119.0,,cc-tweaked-1.21.1-forge-1.119.0.jar,,2026-05-16T14:31:14.397871Z
+Chimes,NO_MODRINTH_MATCH,no 1.21.1 neoforge Modrinth version found,chimes,chimes,,,,,,,,
+Comforts,EQUAL,compare versions are equal,comforts,comforts,9.0.5+1.21.1,9.0.5+1.21.1,9.0.5,9.0.5,,comforts-neoforge-9.0.5+1.21.1.jar,,2026-01-24T04:53:24.006527Z
+Create,EQUAL,compare versions are equal,create,create,6.0.10,6.0.10+mc1.21.1,6.0.10,6.0.10,,create-1.21.1-6.0.10.jar,,2026-04-21T22:20:03.579201Z
+Ender IO,CURSEFORGE_HIGHER,CurseForge compare version is greater than Modrinth,ender-io,enderio,8.2.10,v8.2.10-beta,8.2.10,8.2.10.beta,,enderio-8.2.10-beta.jar,,2026-05-17T18:19:48.746556Z
+Enderman Overhaul,EQUAL,compare versions are equal,enderman-overhaul,enderman-overhaul,2.0.3,2.0.3,2.0.3,2.0.3,,endermanoverhaul-neoforge-1.21.1-2.0.3.jar,,2026-02-22T06:20:38.862836Z
+Extreme Reactors,CURSEFORGE_HIGHER,CurseForge compare version is greater than Modrinth,extreme-reactors,extreme-reactors,2.4.28,1.21.1-2.4.9,2.4.28,2.4.9,,ExtremeReactors2-1.21.1-2.4.9.jar,,2024-09-18T04:57:21.566064Z
+Farmer's Delight,EQUAL,compare versions are equal,farmers-delight,farmers-delight,1.3.2,1.21.1-1.3.2,1.3.2,1.3.2,,FarmersDelight-1.21.1-1.3.2.jar,,2026-05-13T16:42:12.357594Z
+Flopper,MODRINTH_HIGHER,Modrinth compare version is greater than CurseForge,flopper,flopper,188,1.21.1-1.1.8-216,1.1.8.188,1.1.8.216,,flopper-1.21.1-neoforge-1.1.8-216.jar,,2026-03-20T18:31:29.110439Z
+Immersive Aircraft,EQUAL,compare versions are equal,immersive-aircraft,immersive-aircraft,1.4.6+1.21.1,1.4.6+1.21.1,1.4.6,1.4.6,,immersive_aircraft-1.4.6+1.21.1-neoforge.jar,,2026-05-28T06:47:47.192679Z
+Immersive Engineering,EQUAL,compare versions are equal,immersive-engineering,immersiveengineering,194,12.4.2-194,12.4.2.194,12.4.2.194,,ImmersiveEngineering-1.21.1-12.4.2-194.jar,,2025-07-05T15:42:47.124938Z
+Map Atlases,EQUAL,compare versions are equal,map-atlases-forge,map-atlases-forge,6.6.0,1.21-6.6.0,6.6.0,6.6.0,,map_atlases-neoforge-1.21-6.6.0.jar,,2026-05-24T11:53:17.135190Z
+Mekanism,EQUAL,compare versions are equal,mekanism,mekanism,10.7.19.85,10.7.19.85,10.7.19.85,10.7.19.85,,Mekanism-1.21.1-10.7.19.85.jar,,2026-04-10T10:30:24.782944Z
+Mekanism: Generators,EQUAL,compare versions are equal,mekanism-generators,mekanism-generators,10.7.19.85,10.7.19.85,10.7.19.85,10.7.19.85,,MekanismGenerators-1.21.1-10.7.19.85.jar,,2026-04-10T10:30:36.558660Z
+More Mekanism Processing,CURSEFORGE_HIGHER,CurseForge compare version is greater than Modrinth,more-mekanism-processing,more-mekanism-processing,6.8,6.4,6.8,6.4,,MoreMekanismProcessing-1.21.1-6.4.jar,,2025-03-14T08:39:24.623712Z
+More Red,NO_MODRINTH_MATCH,no 1.21.1 neoforge Modrinth version found,more-red,more-red,,,,,,,,
+Nature's Compass,EQUAL,compare versions are equal,natures-compass,natures-compass,3.4.0,1.21.1-3.4.0-neoforge,3.4.0,3.4.0,,NaturesCompass-1.21.1-3.4.0-neoforge.jar,,2026-04-08T01:47:47.219161Z
+Productive Bees,CURSEFORGE_HIGHER,CurseForge compare version is greater than Modrinth,productivebees,productivebees,13.13.5,1.21.1-13.13.0,13.13.5,13.13.0,,productivebees-1.21.1-13.13.0.jar,,2026-01-13T23:43:37.227451Z
+Productive Trees,CURSEFORGE_HIGHER,CurseForge compare version is greater than Modrinth,productivetrees,productivetrees,1.21.1-0.8.1,1.21.1-0.7.0,0.8.1,0.7.0,,productivetrees-1.21.1-0.7.0.jar,,2025-03-04T19:20:59.405411Z
+Roughly Enough Items (REI),EQUAL,compare versions are equal,roughly-enough-items,rei,16.0.799,16.0.799+neoforge,16.0.799,16.0.799,,RoughlyEnoughItems-16.0.799-neoforge.jar,,2025-02-16T11:52:49.583980Z
+Sophisticated Backpacks,EQUAL,compare versions are equal,sophisticated-backpacks,sophisticated-backpacks,3.25.49.1791,1.21.1-3.25.49.1791,3.25.49.1791,3.25.49.1791,,sophisticatedbackpacks-1.21.1-3.25.49.1791.jar,,2026-05-25T20:35:44.479435Z
+Storage Delight,EQUAL,compare versions are equal,storage-delight-forge,storage-delight,26.04.18a+1.21,26.04.18a+1.21-neoforge,26.04.18,26.04.18,,storagedelight-26.04.18a+1.21-neoforge.jar,,2026-04-18T23:35:59.776453Z
+Supplementaries,EQUAL,compare versions are equal,supplementaries,supplementaries,3.6.5,1.21.1-3.6.5,3.6.5,3.6.5,,supplementaries-neoforge-1.21.1-3.6.5.jar,,2026-05-20T23:09:59.323892Z
+The Twilight Forest,SKIPPED,missing Modrinth project,the-twilight-forest,,4.8.3345,,4.8.3345,,,,,
+AeroBlender,EQUAL,compare versions are equal,aeroblender,aeroblender,1.0.0,1.0.0,1.0.0,1.0.0,,aeroblender-1.21.1-1.0.0-neoforge.jar,,2024-11-17T13:31:50.012808Z
+Ars Creo,EQUAL,compare versions are equal,ars-creo,ars-creo,5.4.0,5.4.0,5.4.0,5.4.0,,ars_creo-1.21.1-5.4.0.jar,,2026-05-24T17:22:00.935775Z
+Ars ?nergistique,CURSEFORGE_HIGHER,CurseForge compare version is greater than Modrinth,ars-energistique,ars-energistique,2.1.1,2.1.1-beta,2.1.1,2.1.1.beta,,arseng-2.1.1-beta.jar,,2025-02-17T15:19:29.974151Z
+Man of Many Planes,EQUAL,compare versions are equal,man-of-many-planes,man-of-many-planes,0.2.1+1.21.1,0.2.1+1.21.1,0.2.1,0.2.1,,man_of_many_planes-0.2.1+1.21.1-neoforge.jar,,2025-03-18T11:54:58.787609Z
+More Immersive Wires,EQUAL,compare versions are equal,more-immersive-wires,more-immersive-wires,1.1.9,1.21.1-1.1.9,1.1.9,1.1.9,,more-immersive-wires-1.21.1-1.1.9.jar,,2026-02-21T15:03:52.361805Z
+Advanced AE,EQUAL,compare versions are equal,advancedae,advancedae,1.6.11,1.6.11-1.21.1,1.6.11,1.6.11,,AdvancedAE-1.6.11-1.21.1.jar,,2026-03-31T04:43:44.201146Z
+Advanced Peripherals,EQUAL,compare versions are equal,advanced-peripherals,advancedperipherals,0.7.61b,1.21.1-0.7.61b,0.7.61,0.7.61,,AdvancedPeripherals-1.21.1-0.7.61b.jar,,2026-03-29T23:32:23.947713Z
+AE2 Things,NO_MODRINTH_MATCH,no 1.21.1 neoforge Modrinth version found,ae2-things-forge,ae2things,,,,,,,,
+AE2:Crafting Tree,SKIPPED,missing Modrinth project,ae2-crafting-tree,,1.1.1,,1.1.1,,,,,
+AE2 Import Export Card,EQUAL,compare versions are equal,ae2-import-export-card,ae2-import-export-card,1.5.0,1.21.1-1.5.0,1.5.0,1.5.0,,ae2importexportcard-1.21.1-1.5.0.jar,,2026-05-03T17:40:27.338615Z
+AE2NetworkAnalyzer,SKIPPED,missing Modrinth project,ae2-network-analyser,,2.1.5,,2.1.5,,,,,
+Applied Mekanistics,EQUAL,compare versions are equal,applied-mekanistics,applied-mekanistics,1.6.3,1.6.3,1.6.3,1.6.3,,Applied-Mekanistics-1.6.3.jar,,2025-10-12T01:09:56.775022Z
+ExtendedAE,CURSEFORGE_HIGHER,CurseForge compare version is greater than Modrinth,ex-pattern-provider,extended-ae,2.2.32,1.21-2.2.29-neoforge,2.2.32,2.2.29,,ExtendedAE-1.21-2.2.29-neoforge.jar,,2026-03-04T19:40:56.084724Z
+Enhanced Extinguishing,EQUAL,compare versions are equal,aether-enhanced-extinguishing,aether-enhanced-extinguishing,1.0.0,1.21.1-1.0.0-neoforge,1.0.0,1.0.0,,aether_enhanced_extinguishing-1.21.1-1.0.0-neoforge.jar,,2024-12-31T20:05:24.478864Z
+Protect Your Moa,EQUAL,compare versions are equal,aether-protect-your-moa,aether-protect-your-moa,1.0.0,1.21.1-1.0.0-neoforge,1.0.0,1.0.0,,aether_protect_your_moa-1.21.1-1.0.0-neoforge.jar,,2024-12-31T20:05:15.466424Z
+The Aether: Redux,NO_MODRINTH_MATCH,no 1.21.1 neoforge Modrinth version found,aether-redux,the-aether-redux,,,,,,,,
+Aether Villages,EQUAL,compare versions are equal,aether-villages,aether-villages,1.0.8,1.0.8,1.0.8,1.0.8,,AetherVillages-1.21.1-1.0.8-neoforge.jar,,2024-11-12T00:23:16.419415Z
+Deep Aether,EQUAL,compare versions are equal,deep-aether,deep-aether,1.1.5.1,1.21.1-1.1.5.1,1.1.5.1,1.1.5.1,,deep_aether-1.21.1-1.1.5.1.jar,,2026-03-29T22:46:25.503617Z
+Create Crafts & Additions,EQUAL,compare versions are equal,createaddition,createaddition,1.5.11,neoforge-1.21.1-1.5.11,1.5.11,1.5.11,,createaddition-1.5.11.jar,,2026-05-13T16:07:15.916782Z
+Aethers Delight,SKIPPED,missing CurseForge slug,,the-aethers-delight,,,,,,,,
+AE2 Delight,EQUAL,compare versions are equal,project-1076340,applied-energistics-delight,1.0.2.6,1.0.2.6-1.21.x,1.0.2.6,1.0.2.6,,appliedenergisticsdelight-1.0.2.6-1.21.x.jar,,2024-12-30T17:25:29.508447Z
+Ars Nouveau's Flavors & Delight,EQUAL,compare versions are equal,ars-nouveaus-flavors-delight,arsdelight,2.2.1,2.2.1,2.2.1,2.2.1,,arsdelight-2.2.1.jar,,2026-05-06T07:01:01.424019Z
+Berries And Cherries,EQUAL,compare versions are equal,berries-cherries-delight,berries-and-cherries,1.1,1.1,1.1,1.1,,berries_and_cherries-1.1-neoforge-1.21.1.jar,,2025-01-13T20:38:58.267900Z
+Chefs Delight,EQUAL,compare versions are equal,chefs-delight-forge,chefs-delight,1.0.5,1.0.5,1.0.5,1.0.5,,chefsdelight-1.0.5-neoforge-1.21.1.jar,,2025-12-10T16:40:21.593842Z
+End's Delight,EQUAL,compare versions are equal,ends-delight,ends-delight,2.5.1+neoforge.1.21.1,2.5.1+neoforge.1.21.1,2.5.1,2.5.1,,ends_delight-2.5.1+neoforge.1.21.1.jar,,2025-02-11T02:22:38.022522Z
+Farmer's Cutting: The Aether,EQUAL,compare versions are equal,farmers-cutting-the-aether,farmers-cutting-the-aether,1.0,1.21.1-1.0-neoforge+mod,1.0,1.0,,farmers-cutting-the-aether-1.21.1-1.0-neoforge.jar,,2024-11-28T13:45:36.839149Z
+Farmer's Cutting: Twilight Forest,EQUAL,compare versions are equal,farmers-cutting-twilight-forest,farmers-cutting-twilight-forest,1.0,1.21.1-1.0+mod,1.0,1.0,,farmers-cutting-twilight-forest-1.21.1-1.0.jar,,2024-10-30T10:35:03.542184Z
+FarmersStructures,CURSEFORGE_HIGHER,CurseForge compare version is greater than Modrinth,farmers-structures,aures-farmers-structures,1.0.6,1.0.2,1.0.6,1.0.2,,FarmersStructures-1.0.2-1.21.1_neoforge.jar,,2026-05-18T15:37:35.668254Z
+Fruits Delight,EQUAL,compare versions are equal,fruits-delight,fruits-delight,1.2.14,1.2.14,1.2.14,1.2.14,,fruitsdelight-1.2.14.jar,,2026-05-09T15:49:32.397262Z
+Mekanism Delight,CURSEFORGE_HIGHER,CurseForge compare version is greater than Modrinth,project-1106310,mekanism-delight,1.0.2.3,1.0.2.1-1.21.x,1.0.2.3,1.0.2.1,,mekanismdelight-1.0.2.1-1.21.x.jar,,2024-12-05T04:42:25.520936Z
+My Nether's Delight,EQUAL,compare versions are equal,my-nethers-delight,my-nethers-delight,1.10.2,1.10.2,1.10.2,1.10.2,,MyNethersDelight-1.21.1-1.10.2.jar,,2026-05-02T21:39:06.594712Z
+Ocean's Delight,EQUAL,compare versions are equal,oceans-delight,oceans-delight,1.0.4,1.0.4,1.0.4,1.0.4,,oceansdelight-neoforge-1.0.4-1.21.1.jar,,2026-04-17T13:43:29.292254Z
+Rustic Delight,EQUAL,compare versions are equal,rustic-delight,rustic-delight,1.6.1,1.6.1,1.6.1,1.6.1,,rusticdelight-neoforge-1.21-1.6.1.jar,,2026-05-16T20:47:54.117974Z
+Twilight Flavors & Delight,EQUAL,compare versions are equal,twilights-flavors-delight,twilight-delight,3.2.1,3.2.1,3.2.1,3.2.1,,twilightdelight-3.2.1.jar,,2026-05-06T07:20:19.425067Z
+Biome Replacer,EQUAL,compare versions are equal,biome-replacer,biome-replacer,2.2,2.2-hippo-neo,2.2,2.2,,biomereplacer-2.2-hippo-neo.jar,,2025-11-08T22:05:09.854382Z
+Biomes O' Plenty,EQUAL,compare versions are equal,biomes-o-plenty,biomes-o-plenty,21.1.0.13,21.1.0.13,21.1.0.13,21.1.0.13,,BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar,,2025-11-23T04:05:48.266528Z
+Deeper and Darker,EQUAL,compare versions are equal,deeperdarker,deeperdarker,1.4,1.4,1.4,1.4,,deeperdarker-neoforge-1.21.1-1.4.jar,,2026-04-17T15:55:10.962606Z
+Explorify,EQUAL,compare versions are equal,explorify,explorify,1.6.5,v1.6.5,1.6.5,1.6.5,,Explorify v1.6.5.mod.jar,,2026-05-13T14:00:26.385835Z
+Moog's End Structures,EQUAL,compare versions are equal,moogs-end-structures,mes-moogs-end-structures,2.0.3,2.0.3,2.0.3,2.0.3,,MoogsEndStructures-1.21-2.0.3.jar,,2026-05-22T15:10:37.159531Z
+Nullscape,EQUAL,compare versions are equal,nullscape,nullscape,1.2.14,1.2.14,1.2.14,1.2.14,,Nullscape_1.21.x_v1.2.14.jar,,2025-10-07T17:08:57.321468Z
+Repurposed Structures,EQUAL,compare versions are equal,repurposed-structures,repurposed-structures-forge,7.5.20+1.21.1,7.5.20+1.21.1-neoforge,7.5.20,7.5.20,,repurposed_structures-7.5.20+1.21.1-neoforge.jar,,2026-04-23T11:16:32.757897Z
+Stony Cliffs Are Cool,EQUAL,compare versions are equal,stony-cliffs-are-cool,stony-cliffs-are-cool,1.1.2,1.1.2,1.1.2,1.1.2,,Stony Cliffs FML v1.1.2.jar,,2024-07-26T17:47:30.603107Z
+Custom Biome Saplings,SKIPPED,missing CurseForge slug,,terralith-biome-saplings,,,,,,,,
+YUNG's Better Desert Temples,EQUAL,compare versions are equal,yungs-better-desert-temples-neoforge,yungs-better-desert-temples,4.1.5,1.21.1-NeoForge-4.1.5,4.1.5,4.1.5,,YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar,,2025-03-07T22:28:41.372038Z
+YUNG's Better Dungeons,EQUAL,compare versions are equal,yungs-better-dungeons-neoforge,yungs-better-dungeons,5.1.4,1.21.1-NeoForge-5.1.4,5.1.4,5.1.4,,YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar,,2024-12-01T22:09:34.329782Z
+YUNG's Better End Island,EQUAL,compare versions are equal,yungs-better-end-island-neoforge,yungs-better-end-island,3.1.2,1.21.1-NeoForge-3.1.2,3.1.2,3.1.2,,YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar,,2025-03-13T19:56:29.775018Z
+YUNG's Better Jungle Temples,EQUAL,compare versions are equal,yungs-better-jungle-temples-neoforge,yungs-better-jungle-temples,3.1.2,1.21.1-NeoForge-3.1.2,3.1.2,3.1.2,,YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar,,2024-11-21T04:34:30.071936Z
+YUNG's Better Mineshafts,EQUAL,compare versions are equal,yungs-better-mineshafts-neoforge,yungs-better-mineshafts,5.1.1,1.21.1-NeoForge-5.1.1,5.1.1,5.1.1,,YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar,,2024-10-14T18:45:00.790338Z
+YUNG's Better Nether Fortresses,EQUAL,compare versions are equal,yungs-better-nether-fortresses-neoforge,yungs-better-nether-fortresses,3.1.5,1.21.1-NeoForge-3.1.5,3.1.5,3.1.5,,YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar,,2025-06-01T23:34:40.452930Z
+YUNG's Better Ocean Monuments,EQUAL,compare versions are equal,yungs-better-ocean-monuments-neoforge,yungs-better-ocean-monuments,4.1.2,1.21.1-NeoForge-4.1.2,4.1.2,4.1.2,,YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar,,2024-11-21T04:35:45.546340Z
+YUNG's Better Strongholds,EQUAL,compare versions are equal,yungs-better-strongholds-neoforge,yungs-better-strongholds,5.1.3,1.21.1-NeoForge-5.1.3,5.1.3,5.1.3,,YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar,,2025-03-06T20:03:51.120457Z
+YUNG's Better Witch Huts,EQUAL,compare versions are equal,yungs-better-witch-huts-neoforge,yungs-better-witch-huts,4.1.1,1.21.1-NeoForge-4.1.1,4.1.1,4.1.1,,YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar,,2024-10-14T20:29:19.767506Z
+YUNG's Bridges,EQUAL,compare versions are equal,yungs-bridges-neoforge,yungs-bridges,5.1.1,1.21.1-NeoForge-5.1.1,5.1.1,5.1.1,,YungsBridges-1.21.1-NeoForge-5.1.1.jar,,2024-10-14T20:39:23.498316Z
+OpenLoader,EQUAL,compare versions are equal,open-loader,open-loader,21.1.5,21.1.5,21.1.5,21.1.5,,OpenLoader-neoforge-1.21.1-21.1.5.jar,,2025-05-19T08:08:51.453473Z
+AgriCraft Reloaded,EQUAL,compare versions are equal,agricraft-reloaded,agricraft-reloaded,4.0.8,4.0.8,4.0.8,4.0.8,,AgriCraft-neoforge-1.21.1-4.0.8.jar,,2026-04-27T04:02:41.588263Z
+Async,SKIPPED,missing CurseForge slug,,async,,,,,,,,
+BetterDays,EQUAL,compare versions are equal,betterdays,betterdays,3.3.6.3,1.21.1-3.3.6.3-NEOFORGE,3.3.6.3,3.3.6.3,,betterdays-1.21.1-3.3.6.3-NEOFORGE.jar,,2026-04-24T18:07:21.047651Z
+Concurrent Chunk Management Engine,EQUAL,compare versions are equal,c2me,c2me-neoforge,0.3.0+alpha.0.93+1.21.1,0.3.0+alpha.0.93+1.21.1,0.3.0+alpha.0,0.3.0+alpha.0,,c2me-neoforge-mc1.21.1-0.3.0+alpha.0.93.jar,,2026-05-21T13:56:11.649691Z

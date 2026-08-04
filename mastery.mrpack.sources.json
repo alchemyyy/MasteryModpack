@@ -1,0 +1,1891 @@
+[
+  {
+    "mod_name": "True Ending - Ender Dragon Overhaul",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/datapack/true-ending",
+    "version_number": "1.1.2d",
+    "downloaded_filename": "true-ending-v1.1.2d.zip",
+    "path": "datapacks/true-ending-v1.1.2d.zip"
+  },
+  {
+    "mod_name": "Architectury API",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/architectury-api",
+    "version_number": "13.0.8+neoforge",
+    "downloaded_filename": "architectury-13.0.8-neoforge.jar",
+    "path": "mods/[[[lib]]]architectury-13.0.8-neoforge.jar"
+  },
+  {
+    "mod_name": "Balm",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/balm",
+    "version_number": "21.0.58+neoforge-1.21.1",
+    "downloaded_filename": "balm-neoforge-1.21.1-21.0.58.jar",
+    "path": "mods/[[[lib]]]balm-neoforge-1.21.1-21.0.58.jar"
+  },
+  {
+    "mod_name": "Blueprint",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/blueprint",
+    "version_number": "8.1.0",
+    "downloaded_filename": "blueprint-1.21.1-8.1.0.jar",
+    "path": "mods/[[[lib]]]blueprint-1.21.1-8.1.0.jar"
+  },
+  {
+    "mod_name": "Bookshelf",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/bookshelf-lib",
+    "version_number": "21.1.81",
+    "downloaded_filename": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+    "path": "mods/[[[lib]]]bookshelf-neoforge-1.21.1-21.1.81.jar"
+  },
+  {
+    "mod_name": "Caelus API",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/caelus",
+    "version_number": "7.0.1+1.21.1",
+    "downloaded_filename": "caelus-neoforge-7.0.1+1.21.1.jar",
+    "path": "mods/[[[lib]]]caelus-neoforge-7.0.1+1.21.1.jar"
+  },
+  {
+    "mod_name": "Cloth Config API",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/cloth-config",
+    "version_number": "15.0.140+neoforge",
+    "downloaded_filename": "cloth-config-15.0.140-neoforge.jar",
+    "path": "mods/[[[lib]]]cloth-config-15.0.140-neoforge.jar"
+  },
+  {
+    "mod_name": "CoroUtil",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/coroutil",
+    "version_number": "1.21.0-1.3.8",
+    "downloaded_filename": "coroutil-neoforge-1.21.0-1.3.8.jar",
+    "path": "mods/[[[lib]]]coroutil-neoforge-1.21.0-1.3.8.jar"
+  },
+  {
+    "mod_name": "Curios API",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/curios",
+    "version_number": "9.5.1+1.21.1",
+    "downloaded_filename": "curios-neoforge-9.5.1+1.21.1.jar",
+    "path": "mods/[[[lib]]]curios-neoforge-9.5.1+1.21.1.jar"
+  },
+  {
+    "mod_name": "Cyclops Core",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/cyclops-core",
+    "version_number": "1.21.1-1.29.1",
+    "downloaded_filename": "cyclopscore-1.21.1-neoforge-1.29.1.jar",
+    "path": "mods/[[[lib]]]cyclopscore-1.21.1-neoforge-1.29.1.jar"
+  },
+  {
+    "mod_name": "GeckoLib",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/geckolib",
+    "version_number": "4.8.4",
+    "downloaded_filename": "geckolib-neoforge-1.21.1-4.8.4.jar",
+    "path": "mods/[[[lib]]]geckolib-neoforge-1.21.1-4.8.4.jar"
+  },
+  {
+    "mod_name": "GlitchCore",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/glitchcore",
+    "version_number": "2.1.0.2",
+    "downloaded_filename": "GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+    "path": "mods/[[[lib]]]GlitchCore-neoforge-1.21.1-2.1.0.2.jar"
+  },
+  {
+    "mod_name": "Glodium",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/glodium",
+    "version_number": "1.21-2.2-neoforge",
+    "downloaded_filename": "Glodium-1.21-2.2-neoforge.jar",
+    "path": "mods/[[[lib]]]Glodium-1.21-2.2-neoforge.jar"
+  },
+  {
+    "mod_name": "GuideME",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/guideme",
+    "version_number": "21.1.16",
+    "downloaded_filename": "guideme-21.1.16.jar",
+    "path": "mods/[[[lib]]]guideme-21.1.16.jar"
+  },
+  {
+    "mod_name": "JamLib",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/jamlib",
+    "version_number": "1.3.6+1.21.1",
+    "downloaded_filename": "jamlib-neoforge-1.3.6+1.21.1.jar",
+    "path": "mods/[[[lib]]]jamlib-neoforge-1.3.6+1.21.1.jar"
+  },
+  {
+    "mod_name": "Kotlin for Forge",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/kotlin-for-forge",
+    "version_number": "5.11.0",
+    "downloaded_filename": "kotlinforforge-5.11.0-all.jar",
+    "path": "mods/[[[lib]]]kotlinforforge-5.11.0-all.jar"
+  },
+  {
+    "mod_name": "libIPN",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/libipn",
+    "version_number": "neoforge-1.21.1-6.6.3",
+    "downloaded_filename": "libIPN-neoforge-1.21.1-6.6.3.jar",
+    "path": "mods/[[[lib]]]libIPN-neoforge-1.21.1-6.6.3.jar"
+  },
+  {
+    "mod_name": "Moog's Structure Lib",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/moogs-structure-lib",
+    "version_number": "2.0.2",
+    "downloaded_filename": "moogs_structures-neoforge-1.21.1-2.0.2.jar",
+    "path": "mods/[[[lib]]]moogs_structures-neoforge-1.21.1-2.0.2.jar"
+  },
+  {
+    "mod_name": "Moonlight Lib",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/moonlight",
+    "version_number": "1.21.1-3.0.14",
+    "downloaded_filename": "moonlight-neoforge-1.21.1-3.0.14.jar",
+    "path": "mods/[[[lib]]]moonlight-neoforge-1.21.1-3.0.14.jar"
+  },
+  {
+    "mod_name": "oÏ‰o (owo-lib)",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/owo-lib",
+    "version_number": "0.12.15.5-beta.1+1.21",
+    "downloaded_filename": "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+    "path": "mods/[[[lib]]]owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar"
+  },
+  {
+    "mod_name": "Patchouli",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/patchouli",
+    "version_number": "1.21.1-93-neoforge",
+    "downloaded_filename": "Patchouli-1.21.1-93-NEOFORGE.jar",
+    "path": "mods/[[[lib]]]Patchouli-1.21.1-93-NEOFORGE.jar"
+  },
+  {
+    "mod_name": "playerAnimator",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/playeranimator",
+    "version_number": "2.0.4+1.21.1-forge",
+    "downloaded_filename": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+    "path": "mods/[[[lib]]]player-animation-lib-forge-2.0.4+1.21.1.jar"
+  },
+  {
+    "mod_name": "Prickle",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/prickle",
+    "version_number": "21.1.11",
+    "downloaded_filename": "prickle-neoforge-1.21.1-21.1.11.jar",
+    "path": "mods/[[[lib]]]prickle-neoforge-1.21.1-21.1.11.jar"
+  },
+  {
+    "mod_name": "Puzzles Lib",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/puzzles-lib",
+    "version_number": "v21.1.50-1.21.1-NeoForge",
+    "downloaded_filename": "PuzzlesLib-v21.1.50-1.21.1-NeoForge.jar",
+    "path": "mods/[[[lib]]]PuzzlesLib-v21.1.50-1.21.1-NeoForge.jar"
+  },
+  {
+    "mod_name": "Resourceful Config",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/resourceful-config",
+    "version_number": "3.0.11",
+    "downloaded_filename": "resourcefulconfig-neoforge-1.21-3.0.11.jar",
+    "path": "mods/[[[lib]]]resourcefulconfig-neoforge-1.21-3.0.11.jar"
+  },
+  {
+    "mod_name": "Resourceful Lib",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/resourceful-lib",
+    "version_number": "3.0.12",
+    "downloaded_filename": "resourcefullib-neoforge-1.21-3.0.12.jar",
+    "path": "mods/[[[lib]]]resourcefullib-neoforge-1.21-3.0.12.jar"
+  },
+  {
+    "mod_name": "Ritchie's Projectile Library",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/rpl",
+    "version_number": "2.1.2",
+    "downloaded_filename": "ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
+    "path": "mods/[[[lib]]]ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar"
+  },
+  {
+    "mod_name": "Scalable Cat's Force",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/scalable-cats-force",
+    "version_number": "3.7.1-build-11",
+    "downloaded_filename": "ScalableCatsForce-NeoForge-3.7.1-build-11-with-library.jar",
+    "path": "mods/[[[lib]]]ScalableCatsForce-NeoForge-3.7.1-build-11-with-library.jar"
+  },
+  {
+    "mod_name": "Searchables",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/searchables",
+    "version_number": "1.0.2",
+    "downloaded_filename": "Searchables-neoforge-1.21.1-1.0.2.jar",
+    "path": "mods/[[[lib]]]Searchables-neoforge-1.21.1-1.0.2.jar"
+  },
+  {
+    "mod_name": "Sophisticated Core",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/sophisticated-core",
+    "version_number": "1.21.1-1.4.42.1892",
+    "downloaded_filename": "sophisticatedcore-1.21.1-1.4.42.1892.jar",
+    "path": "mods/[[[lib]]]sophisticatedcore-1.21.1-1.4.42.1892.jar"
+  },
+  {
+    "mod_name": "SuperMartijn642's Core Lib",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/supermartijn642s-core-lib",
+    "version_number": "1.1.21-neoforge-mc1.21",
+    "downloaded_filename": "supermartijn642corelib-1.1.21-neoforge-mc1.21.jar",
+    "path": "mods/[[[lib]]]supermartijn642corelib-1.1.21-neoforge-mc1.21.jar"
+  },
+  {
+    "mod_name": "U Team Core",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/u-team-core",
+    "version_number": "5.6.2.384",
+    "downloaded_filename": "u_team_core-neoforge-1.21.1-5.6.2.384.jar",
+    "path": "mods/[[[lib]]]u_team_core-neoforge-1.21.1-5.6.2.384.jar"
+  },
+  {
+    "mod_name": "YetAnotherConfigLib (YACL)",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/yacl",
+    "version_number": "3.8.2+1.21.1-neoforge",
+    "downloaded_filename": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+    "path": "mods/[[[lib]]]yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar"
+  },
+  {
+    "mod_name": "YUNG's API",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/yungs-api",
+    "version_number": "1.21.1-NeoForge-5.1.6",
+    "downloaded_filename": "YungsApi-1.21.1-NeoForge-5.1.6.jar",
+    "path": "mods/[[[lib]]]YungsApi-1.21.1-NeoForge-5.1.6.jar"
+  },
+  {
+    "mod_name": "Zero CORE 2",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/zerocore",
+    "version_number": "1.21.1-2.4.9",
+    "downloaded_filename": "ZeroCore2-1.21.1-2.4.9.jar",
+    "path": "mods/[[[lib]]]ZeroCore2-1.21.1-2.4.9.jar"
+  },
+  {
+    "mod_name": "Chunky",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/plugin/chunky",
+    "version_number": "1.4.23",
+    "downloaded_filename": "Chunky-NeoForge-1.4.23.jar",
+    "path": "mods/[[[server]]]Chunky-NeoForge-1.4.23.jar"
+  },
+  {
+    "mod_name": "TabTPS",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/plugin/tabtps/version/JkFbz8lE",
+    "version_number": "1.3.25",
+    "downloaded_filename": "tabtps-neoforge-mc1.21.1-1.3.25.jar",
+    "path": "mods/[[[server]]]tabtps-neoforge-mc1.21.1-1.3.25.jar"
+  },
+  {
+    "mod_name": "Jade Addons",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/jade-addons-forge",
+    "version_number": "6.1.0+neoforge",
+    "downloaded_filename": "JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+    "path": "mods/[[client2]]JadeAddons-1.21.1-NeoForge-6.1.0.jar"
+  },
+  {
+    "mod_name": "Just Enough Effects Descriptions",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/just-enough-effect-descriptions-jeed",
+    "version_number": "1.21-2.3.2",
+    "downloaded_filename": "jeed-1.21-2.3.2.jar",
+    "path": "mods/[[client2]]jeed-1.21-2.3.2.jar"
+  },
+  {
+    "mod_name": "Just Enough Resources (JER)",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/just-enough-resources-jer",
+    "version_number": "1.6.0.17",
+    "downloaded_filename": "JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
+    "path": "mods/[[client2]]JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
+    "requested_version_url": "https://modrinth.com/mod/just-enough-resources-jer/version/TgNFki8j"
+  },
+  {
+    "mod_name": "AppleSkin",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/appleskin",
+    "version_number": "3.0.9+mc1.21",
+    "downloaded_filename": "appleskin-neoforge-mc1.21-3.0.9.jar",
+    "path": "mods/[[client]]appleskin-neoforge-mc1.21-3.0.9.jar"
+  },
+  {
+    "mod_name": "BadOptimizations",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/badoptimizations",
+    "version_number": "2.4.1",
+    "downloaded_filename": "BadOptimizations-2.4.1-1.21.1.jar",
+    "path": "mods/[[client]]BadOptimizations-2.4.1-1.21.1.jar"
+  },
+  {
+    "mod_name": "Borderless Window",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/borderless-window",
+    "version_number": "1.7.5_1",
+    "downloaded_filename": "borderless-neoforge-1.21.1-1.7.5_1-all.jar",
+    "path": "mods/[[client]]borderless-neoforge-1.21.1-1.7.5_1-all.jar"
+  },
+  {
+    "mod_name": "Build Guide",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/build-guide",
+    "version_number": "0.4.8-1.21",
+    "downloaded_filename": "BuildGuide-1.21-0.4.8.jar",
+    "path": "mods/[[client]]BuildGuide-1.21-0.4.8.jar"
+  },
+  {
+    "mod_name": "Bad Wither No Cookie Reloaded",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/bad-wither-no-cookie",
+    "version_number": "3.20.4",
+    "downloaded_filename": "bwncr-neoforge-1.21.1-3.20.4.jar",
+    "path": "mods/[[client]]bwncr-neoforge-1.21.1-3.20.4.jar"
+  },
+  {
+    "mod_name": "ClearWater",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/clear-water",
+    "version_number": "3.0.0",
+    "downloaded_filename": "clearwater-neoforge-1.21-3.0.0.jar",
+    "path": "mods/[[client]]clearwater-neoforge-1.21-3.0.0.jar"
+  },
+  {
+    "mod_name": "Colorful Hearts",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/colorful-hearts",
+    "version_number": "10.5.9",
+    "downloaded_filename": "colorfulhearts-neoforge-1.21.1-10.5.9.jar",
+    "path": "mods/[[client]]colorfulhearts-neoforge-1.21.1-10.5.9.jar"
+  },
+  {
+    "mod_name": "Controlling",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/controlling",
+    "version_number": "19.0.5",
+    "downloaded_filename": "Controlling-neoforge-1.21.1-19.0.5.jar",
+    "path": "mods/[[client]]Controlling-neoforge-1.21.1-19.0.5.jar"
+  },
+  {
+    "mod_name": "Dark Mode Everywhere",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/dark-mode-everywhere",
+    "version_number": "1.21-1.3.5",
+    "downloaded_filename": "darkmodeeverywhere-1.21-1.3.5.jar",
+    "path": "mods/[[client]]darkmodeeverywhere-1.21-1.3.5.jar"
+  },
+  {
+    "mod_name": "Extreme Sound Muffler",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/extreme_sound_muffler",
+    "version_number": "3.56-1.21.1",
+    "downloaded_filename": "ExtremeSoundMuffler-3.56_NeoForge-1.21.jar",
+    "path": "mods/[[client]]ExtremeSoundMuffler-3.56_NeoForge-1.21.jar"
+  },
+  {
+    "mod_name": "Fallingleaves",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/fallingleavesforge",
+    "version_number": "1.21.1-2.5.1",
+    "downloaded_filename": "fallingleaves-1.21.1-2.5.1.jar",
+    "path": "mods/[[client]]fallingleaves-1.21.1-2.5.1.jar"
+  },
+  {
+    "mod_name": "FlickerFix",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/flickerfix",
+    "version_number": "6.0.0",
+    "downloaded_filename": "flickerfix-1.21.0.jar",
+    "path": "mods/[[client]]flickerfix-1.21.0.jar"
+  },
+  {
+    "mod_name": "Fusion (Connected Textures)",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/fusion-connected-textures",
+    "version_number": "1.2.12-neoforge-mc1.21.1",
+    "downloaded_filename": "fusion-1.2.12-neoforge-mc1.21.1.jar",
+    "path": "mods/[[client]]fusion-1.2.12-neoforge-mc1.21.1.jar"
+  },
+  {
+    "mod_name": "Iris Shaders",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/iris",
+    "version_number": "1.8.12+1.21.1-neoforge",
+    "downloaded_filename": "iris-neoforge-1.8.12+mc1.21.1.jar",
+    "path": "mods/[[client]]iris-neoforge-1.8.12+mc1.21.1.jar"
+  },
+  {
+    "mod_name": "Jade",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/jade",
+    "version_number": "15.10.5+neoforge",
+    "downloaded_filename": "Jade-1.21.1-NeoForge-15.10.5.jar",
+    "path": "mods/[[client]]Jade-1.21.1-NeoForge-15.10.5.jar"
+  },
+  {
+    "mod_name": "KeybindsPurger",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/keybindspurger",
+    "version_number": "1.4.0",
+    "downloaded_filename": "KeybindsPurger-1.4.0-neoforge-1.21.1.jar",
+    "path": "mods/[[client]]KeybindsPurger-1.4.0-neoforge-1.21.1.jar"
+  },
+  {
+    "mod_name": "Longer Chat History",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/longer-chat-history",
+    "version_number": "1.7",
+    "downloaded_filename": "LongerChatHistory-neoforge-1.7.jar",
+    "path": "mods/[[client]]LongerChatHistory-neoforge-1.7.jar"
+  },
+  {
+    "mod_name": "Model Gap Fix",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/modelfix",
+    "version_number": "1.21-1.10",
+    "downloaded_filename": "modelfix-1.21-1.10.jar",
+    "path": "mods/[[client]]modelfix-1.21-1.10.jar"
+  },
+  {
+    "mod_name": "Mouse Tweaks",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/mouse-tweaks",
+    "version_number": "1.21-2.26.1-neoforge",
+    "downloaded_filename": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+    "path": "mods/[[client]]MouseTweaks-neoforge-mc1.21-2.26.1.jar"
+  },
+  {
+    "mod_name": "OAuth Account Manager",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/oauth-account-manager",
+    "version_number": "1.0.1.6",
+    "downloaded_filename": "oauth-account-manager-neoforge-1.21.1-1.0.1.6.jar",
+    "path": "mods/[[client]]oauth-account-manager-neoforge-1.21.1-1.0.1.6.jar"
+  },
+  {
+    "mod_name": "Sound Physics Remastered",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/sound-physics-remastered",
+    "version_number": "neoforge-1.21.1-1.5.1",
+    "downloaded_filename": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+    "path": "mods/[[client]]sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
+  },
+  {
+    "mod_name": "WI Zoom",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/wi-zoom",
+    "version_number": "1.6-MC1.21.1-NeoForge",
+    "downloaded_filename": "WI-Zoom-1.6-MC1.21.1-NeoForge.jar",
+    "path": "mods/[[client]]WI-Zoom-1.6-MC1.21.1-NeoForge.jar"
+  },
+  {
+    "mod_name": "Clientside Crafting",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/clientsidecrafting",
+    "version_number": "1.0.0",
+    "downloaded_filename": "clientsidecrafting-neoforge-1.21.1-1.0.0.jar",
+    "path": "mods/[[client]]clientsidecrafting-neoforge-1.21.1-1.0.0.jar"
+  },
+  {
+    "mod_name": "Interactive Achievment Messages",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/interactiveachievmentmessages",
+    "version_number": "1.0.0",
+    "downloaded_filename": "interactiveachievmentmessages-neoforge-1.21.1-1.0.0.jar",
+    "path": "mods/[[client]]interactiveachievmentmessages-neoforge-1.21.1-1.0.0.jar"
+  },
+  {
+    "mod_name": "OST Orchestrator",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/ostorchestrator",
+    "version_number": "1.0.0",
+    "downloaded_filename": "ostorchestrator-neoforge-1.21.1-1.0.0.jar",
+    "path": "mods/[[client]]ostorchestrator-neoforge-1.21.1-1.0.0.jar"
+  },
+  {
+    "mod_name": "EntityCulling",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/entityculling",
+    "version_number": "1.10.2",
+    "downloaded_filename": "entityculling-neoforge-1.10.2-mc1.21.1.jar",
+    "path": "mods/[[clientperformance]]entityculling-neoforge-1.10.2-mc1.21.1.jar"
+  },
+  {
+    "mod_name": "Fast IP Ping",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/fast-ip-ping",
+    "version_number": "v1.0.11-mc1.21.1-neoforge",
+    "downloaded_filename": "fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar",
+    "path": "mods/[[clientperformance]]fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar"
+  },
+  {
+    "mod_name": "ImmediatelyFast",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/immediatelyfast",
+    "version_number": "1.6.10+1.21.1-neoforge",
+    "downloaded_filename": "ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+    "path": "mods/[[clientperformance]]ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar"
+  },
+  {
+    "mod_name": "Sodium",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/sodium",
+    "version_number": "mc1.21.1-0.8.12-beta.2-neoforge",
+    "downloaded_filename": "sodium-neoforge-0.8.12-beta.2+mc1.21.1.jar",
+    "path": "mods/[[clientperformance]]sodium-neoforge-0.8.12-beta.2+mc1.21.1.jar",
+    "requested_version_url": "https://modrinth.com/mod/sodium/version/mc1.21.1-0.8.12-beta.2-neoforge"
+  },
+  {
+    "mod_name": "Mem Leak Fix GPU",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/memleakfixgpu",
+    "version_number": "1.0.0",
+    "downloaded_filename": "gpumemleakfix-neoforge-1.21.1-1.0.0.jar",
+    "path": "mods/[[clientperformance]]gpumemleakfix-neoforge-1.21.1-1.0.0.jar"
+  },
+  {
+    "mod_name": "Alternate Current",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/alternate-current",
+    "version_number": "neoforge-mc1.21-1.9.0",
+    "downloaded_filename": "alternate_current-mc1.21-1.9.0.jar",
+    "path": "mods/[[performance]]alternate_current-mc1.21-1.9.0.jar"
+  },
+  {
+    "mod_name": "Concurrent Chunk Management Engine",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/c2me-neoforge",
+    "version_number": "0.4.0-alpha.0.112+1.21.1",
+    "downloaded_filename": "c2me-neoforge-mc1.21.1-0.4.0-alpha.0.112.jar",
+    "path": "mods/[[performance]]c2me-neoforge-mc1.21.1-0.4.0-alpha.0.112.jar"
+  },
+  {
+    "mod_name": "Clumps",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/clumps",
+    "version_number": "19.0.0.1",
+    "downloaded_filename": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
+    "path": "mods/[[performance]]Clumps-neoforge-1.21.1-19.0.0.1.jar"
+  },
+  {
+    "mod_name": "Ferrite Core",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/ferrite-core",
+    "version_number": "7.0.3-neoforge",
+    "downloaded_filename": "ferritecore-7.0.3-neoforge.jar",
+    "path": "mods/[[performance]]ferritecore-7.0.3-neoforge.jar"
+  },
+  {
+    "mod_name": "Lithium",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/lithium",
+    "version_number": "mc1.21.1-0.15.3-neoforge",
+    "downloaded_filename": "lithium-neoforge-0.15.3+mc1.21.1.jar",
+    "path": "mods/[[performance]]lithium-neoforge-0.15.3+mc1.21.1.jar",
+    "requested_version_url": "https://modrinth.com/mod/lithium/version/mc1.21.1-0.15.3-neoforge"
+  },
+  {
+    "mod_name": "ModernFix",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/modernfix",
+    "version_number": "5.27.11+mc1.21.1",
+    "downloaded_filename": "modernfix-neoforge-5.27.11+mc1.21.1.jar",
+    "path": "mods/[[performance]]modernfix-neoforge-5.27.11+mc1.21.1.jar"
+  },
+  {
+    "mod_name": "Noisium",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/noisium",
+    "version_number": "2.3.0+mc1.21-1.21.1",
+    "downloaded_filename": "noisium-neoforge-2.3.0+mc1.21-1.21.1.jar",
+    "path": "mods/[[performance]]noisium-neoforge-2.3.0+mc1.21-1.21.1.jar"
+  },
+  {
+    "mod_name": "Structure Configurator",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/structure-configurator",
+    "version_number": "1.0.0",
+    "downloaded_filename": "structureconfigurator-neoforge-1.21.1-1.0.0.jar",
+    "path": "mods/[[performance]]structureconfigurator-neoforge-1.21.1-1.0.0.jar"
+  },
+  {
+    "mod_name": "AlmostUnified",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/almostunified",
+    "version_number": "1.21.1-1.4.2+neoforge",
+    "downloaded_filename": "almostunified-neoforge-1.21.1-1.4.2.jar",
+    "path": "mods/[tier0]almostunified-neoforge-1.21.1-1.4.2.jar"
+  },
+  {
+    "mod_name": "BetterDays",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/betterdays",
+    "version_number": "1.21.1-3.3.6.3-NEOFORGE",
+    "downloaded_filename": "betterdays-1.21.1-3.3.6.3-NEOFORGE.jar",
+    "path": "mods/[tier0]betterdays-1.21.1-3.3.6.3-NEOFORGE.jar"
+  },
+  {
+    "mod_name": "Easy Anvils",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/easy-anvils",
+    "version_number": "v21.1.0-1.21.1-NeoForge",
+    "downloaded_filename": "EasyAnvils-v21.1.0-1.21.1-NeoForge.jar",
+    "path": "mods/[tier0]EasyAnvils-v21.1.0-1.21.1-NeoForge.jar"
+  },
+  {
+    "mod_name": "Feature Recycler",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/feature-recycler",
+    "version_number": "2.0.0-neoforge",
+    "downloaded_filename": "Feature-Recycler-neoforge-2.0.0.jar",
+    "path": "mods/[tier0]Feature-Recycler-neoforge-2.0.0.jar"
+  },
+  {
+    "mod_name": "Glassential Renewed",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/glassential-renewed",
+    "version_number": "3.4.4",
+    "downloaded_filename": "Glassential-renewed-1.21.1-3.4.4.jar",
+    "path": "mods/[tier0]Glassential-renewed-1.21.1-3.4.4.jar"
+  },
+  {
+    "mod_name": "Hey Berry! SHUT UP",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/heyberryshutup",
+    "version_number": "1.21.0-2.0.4",
+    "downloaded_filename": "heyberryshutup-1.21.0-2.0.4.jar",
+    "path": "mods/[tier0]heyberryshutup-1.21.0-2.0.4.jar"
+  },
+  {
+    "mod_name": "Inventory Profiles Next",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/inventory-profiles-next",
+    "version_number": "neoforge-1.21.1-2.2.5",
+    "downloaded_filename": "InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
+    "path": "mods/[tier0]InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar"
+  },
+  {
+    "mod_name": "JAOPCA",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/jaopca",
+    "version_number": "1.21.1-5.0.13.21",
+    "downloaded_filename": "JAOPCA-1.21.1-5.0.13.21.jar",
+    "path": "mods/[tier0]JAOPCA-1.21.1-5.0.13.21.jar"
+  },
+  {
+    "mod_name": "KleeSlabs",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/kleeslabs",
+    "version_number": "21.1.11+neoforge-1.21.1",
+    "downloaded_filename": "kleeslabs-neoforge-1.21.1-21.1.11.jar",
+    "path": "mods/[tier0]kleeslabs-neoforge-1.21.1-21.1.11.jar"
+  },
+  {
+    "mod_name": "Load My F***ing Tags",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/lmft",
+    "version_number": "1.1.1+1.21.9",
+    "downloaded_filename": "lmft-1.1.1+1.21.9-neoforge.jar",
+    "path": "mods/[tier0]lmft-1.1.1+1.21.9-neoforge.jar"
+  },
+  {
+    "mod_name": "NetherPortalFix",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/netherportalfix",
+    "version_number": "21.1.1+neoforge-1.21.1",
+    "downloaded_filename": "netherportalfix-neoforge-1.21.1-21.1.1.jar",
+    "path": "mods/[tier0]netherportalfix-neoforge-1.21.1-21.1.1.jar"
+  },
+  {
+    "mod_name": "No Chat Reports",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/no-chat-reports",
+    "version_number": "NeoForge-1.21.1-v2.9.1",
+    "downloaded_filename": "NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
+    "path": "mods/[tier0]NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar"
+  },
+  {
+    "mod_name": "Packet Fixer",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/packet-fixer",
+    "version_number": "3.3.1",
+    "downloaded_filename": "packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+    "path": "mods/[tier0]packetfixer-3.3.1-1.20.5-1.21.X-merged.jar"
+  },
+  {
+    "mod_name": "Polymorph",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/polymorph",
+    "version_number": "1.1.0+1.21.1",
+    "downloaded_filename": "polymorph-neoforge-1.1.0+1.21.1.jar",
+    "path": "mods/[tier0]polymorph-neoforge-1.1.0+1.21.1.jar"
+  },
+  {
+    "mod_name": "Right Click Harvest",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/rightclickharvest",
+    "version_number": "4.6.1+1.21.1",
+    "downloaded_filename": "rightclickharvest-neoforge-4.6.1+1.21.1.jar",
+    "path": "mods/[tier0]rightclickharvest-neoforge-4.6.1+1.21.1.jar"
+  },
+  {
+    "mod_name": "Smarter Farmers",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/smarter-farmers-farmers-replant",
+    "version_number": "1.21-2.2.4",
+    "downloaded_filename": "smarterfarmers-1.21-2.2.4-neoforge.jar",
+    "path": "mods/[tier0]smarterfarmers-1.21-2.2.4-neoforge.jar"
+  },
+  {
+    "mod_name": "TiltBreak",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/tilt-break",
+    "version_number": "3.0nf",
+    "downloaded_filename": "TiltBreak-1.21.1-3.0-NF.jar",
+    "path": "mods/[tier0]TiltBreak-1.21.1-3.0-NF.jar"
+  },
+  {
+    "mod_name": "Too Fast",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/too-fast",
+    "version_number": "0.4.3.5",
+    "downloaded_filename": "toofast-1.21.0-0.4.3.5.jar",
+    "path": "mods/[tier0]toofast-1.21.0-0.4.3.5.jar"
+  },
+  {
+    "mod_name": "Connection Packet Fixer",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/connectionpacketfixer",
+    "version_number": "1.0.0",
+    "downloaded_filename": "connectionpacketfixer-neoforge-1.21.1-1.0.0.jar",
+    "path": "mods/[tier0]connectionpacketfixer-neoforge-1.21.1-1.0.0.jar"
+  },
+  {
+    "mod_name": "Controlled Leaf Decay",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/controlledleafdecay",
+    "version_number": "1.0.0",
+    "downloaded_filename": "controlledleafdecay-neoforge-1.21.1-1.0.0.jar",
+    "path": "mods/[tier0]controlledleafdecay-neoforge-1.21.1-1.0.0.jar"
+  },
+  {
+    "mod_name": "Dungeon Loot Configurator",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/dungeonlootconfigurator",
+    "version_number": "1.0.0",
+    "downloaded_filename": "dungeonlootconfigurator-neoforge-1.21.1-1.0.0.jar",
+    "path": "mods/[tier0]dungeonlootconfigurator-neoforge-1.21.1-1.0.0.jar"
+  },
+  {
+    "mod_name": "Fix Boat Break",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/fixboatbreak",
+    "version_number": "1.0.0",
+    "downloaded_filename": "fixboatbreak-neoforge-1.21.1-1.0.0.jar",
+    "path": "mods/[tier0]fixboatbreak-neoforge-1.21.1-1.0.0.jar"
+  },
+  {
+    "mod_name": "SecurityCraft",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/security-craft",
+    "version_number": "v1.10.1",
+    "downloaded_filename": "[1.21.1] SecurityCraft v1.10.1.jar",
+    "path": "mods/[tier1][1.21.1] SecurityCraft v1.10.1.jar"
+  },
+  {
+    "mod_name": "QuarryPlus",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/additional-enchanted-miner",
+    "version_number": "21.1.153",
+    "downloaded_filename": "AdditionalEnchantedMiner-1.21.1-neoforge-21.1.153.jar",
+    "path": "mods/[tier1]AdditionalEnchantedMiner-1.21.1-neoforge-21.1.153.jar"
+  },
+  {
+    "mod_name": "Additional Lanterns",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/additional-lanterns",
+    "version_number": "1.1.2-neoforge-mc1.21",
+    "downloaded_filename": "additionallanterns-1.1.2-neoforge-mc1.21.jar",
+    "path": "mods/[tier1]additionallanterns-1.1.2-neoforge-mc1.21.jar"
+  },
+  {
+    "mod_name": "The Aether",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/aether",
+    "version_number": "1.21.1-1.5.10-neoforge",
+    "downloaded_filename": "aether-1.21.1-1.5.10-neoforge.jar",
+    "path": "mods/[tier1]aether-1.21.1-1.5.10-neoforge.jar"
+  },
+  {
+    "mod_name": "AgriCraft Reloaded",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/agricraft-reloaded",
+    "version_number": "4.0.8",
+    "downloaded_filename": "AgriCraft-neoforge-1.21.1-4.0.8.jar",
+    "path": "mods/[tier1]AgriCraft-neoforge-1.21.1-4.0.8.jar"
+  },
+  {
+    "mod_name": "Amendments",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/amendments",
+    "version_number": "1.21-2.0.15-neoforge",
+    "downloaded_filename": "amendments-1.21-2.0.15-neoforge.jar",
+    "path": "mods/[tier1]amendments-1.21-2.0.15-neoforge.jar"
+  },
+  {
+    "mod_name": "Applied Energistics 2",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/ae2",
+    "version_number": "19.2.17",
+    "downloaded_filename": "appliedenergistics2-19.2.17.jar",
+    "path": "mods/[tier1]appliedenergistics2-19.2.17.jar"
+  },
+  {
+    "mod_name": "Ars Nouveau",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/ars-nouveau",
+    "version_number": "5.11.6",
+    "downloaded_filename": "ars_nouveau-1.21.1-5.11.6.jar",
+    "path": "mods/[tier1]ars_nouveau-1.21.1-5.11.6.jar"
+  },
+  {
+    "mod_name": "Bibliocraft Legacy",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/bibliocraft-legacy",
+    "version_number": "1.21.1-1.6.5",
+    "downloaded_filename": "bibliocraft-1.21.1-1.6.5.jar",
+    "path": "mods/[tier1]bibliocraft-1.21.1-1.6.5.jar"
+  },
+  {
+    "mod_name": "Boatload",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/boatload",
+    "version_number": "6.0.2",
+    "downloaded_filename": "boatload-1.21.1-6.0.2.jar",
+    "path": "mods/[tier1]boatload-1.21.1-6.0.2.jar"
+  },
+  {
+    "mod_name": "CC: Tweaked",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/cc-tweaked",
+    "version_number": "1.119.0",
+    "downloaded_filename": "cc-tweaked-1.21.1-forge-1.119.0.jar",
+    "path": "mods/[tier1]cc-tweaked-1.21.1-forge-1.119.0.jar"
+  },
+  {
+    "mod_name": "Chimes",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/chimes",
+    "version_number": "2.1.1",
+    "downloaded_filename": "Chimes-v2.1.1-1.20.1-Forge.jar",
+    "path": "mods/[tier1]Chimes-v2.1.1-1.20.1-Forge.jar.wip",
+    "note": "Using latest Modrinth 1.20.1 NeoForge file as .jar.wip for later 1.21.1 patch work."
+  },
+  {
+    "mod_name": "Comforts",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/comforts",
+    "version_number": "9.0.5+1.21.1",
+    "downloaded_filename": "comforts-neoforge-9.0.5+1.21.1.jar",
+    "path": "mods/[tier1]comforts-neoforge-9.0.5+1.21.1.jar"
+  },
+  {
+    "mod_name": "Create",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/create",
+    "version_number": "6.0.10+mc1.21.1",
+    "downloaded_filename": "create-1.21.1-6.0.10.jar",
+    "path": "mods/[tier1]create-1.21.1-6.0.10.jar"
+  },
+  {
+    "mod_name": "Ender IO",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/enderio",
+    "version_number": "v8.2.10-beta",
+    "downloaded_filename": "enderio-8.2.10-beta.jar",
+    "path": "mods/[tier1]enderio-8.2.10-beta.jar"
+  },
+  {
+    "mod_name": "Enderman Overhaul",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/enderman-overhaul",
+    "version_number": "2.0.3",
+    "downloaded_filename": "endermanoverhaul-neoforge-1.21.1-2.0.3.jar",
+    "path": "mods/[tier1]endermanoverhaul-neoforge-1.21.1-2.0.3.jar"
+  },
+  {
+    "mod_name": "Extreme Reactors",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/extreme-reactors",
+    "version_number": "1.21.1-2.4.9",
+    "downloaded_filename": "ExtremeReactors2-1.21.1-2.4.9.jar",
+    "path": "mods/[tier1]ExtremeReactors2-1.21.1-2.4.9.jar"
+  },
+  {
+    "mod_name": "Fairy Lights",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/fairy-lights-fabric",
+    "version_number": "v1.2.1+1.21.1_neoforge",
+    "downloaded_filename": "fairylights-neoforge-1.21.1-1.2.1.jar",
+    "path": "mods/[tier1]fairylights-neoforge-1.21.1-1.2.1.jar"
+  },
+  {
+    "mod_name": "Farmer's Delight",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/farmers-delight",
+    "version_number": "1.21.1-1.3.2",
+    "downloaded_filename": "FarmersDelight-1.21.1-1.3.2.jar",
+    "path": "mods/[tier1]FarmersDelight-1.21.1-1.3.2.jar"
+  },
+  {
+    "mod_name": "Flopper",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/flopper",
+    "version_number": "1.21.1-1.1.8-216",
+    "downloaded_filename": "flopper-1.21.1-neoforge-1.1.8-216.jar",
+    "path": "mods/[tier1]flopper-1.21.1-neoforge-1.1.8-216.jar"
+  },
+  {
+    "mod_name": "Grappling Hook Mod: Skybound",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/grapplemod-skybound",
+    "version_number": "v1.1+1.21.1-neoforge",
+    "downloaded_filename": "grapplemod-1.1+1.21.1.neoforge.jar",
+    "path": "mods/[tier1]grapplemod-1.1+1.21.1.neoforge.jar"
+  },
+  {
+    "mod_name": "Immersive Aircraft",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/immersive-aircraft",
+    "version_number": "1.4.6+1.21.1",
+    "downloaded_filename": "immersive_aircraft-1.4.6+1.21.1-neoforge.jar",
+    "path": "mods/[tier1]immersive_aircraft-1.4.6+1.21.1-neoforge.jar"
+  },
+  {
+    "mod_name": "Immersive Engineering",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/immersiveengineering",
+    "version_number": "12.4.2-194",
+    "downloaded_filename": "ImmersiveEngineering-1.21.1-12.4.2-194.jar",
+    "path": "mods/[tier1]ImmersiveEngineering-1.21.1-12.4.2-194.jar"
+  },
+  {
+    "mod_name": "Map Atlases",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/map-atlases-forge",
+    "version_number": "1.21-6.6.0",
+    "downloaded_filename": "map_atlases-neoforge-1.21-6.6.0.jar",
+    "path": "mods/[tier1]map_atlases-neoforge-1.21-6.6.0.jar"
+  },
+  {
+    "mod_name": "Mekanism",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/mekanism",
+    "version_number": "10.7.19.85",
+    "downloaded_filename": "Mekanism-1.21.1-10.7.19.85.jar",
+    "path": "mods/[tier1]Mekanism-1.21.1-10.7.19.85.jar"
+  },
+  {
+    "mod_name": "Mekanism: Generators",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/mekanism-generators",
+    "version_number": "10.7.19.85",
+    "downloaded_filename": "MekanismGenerators-1.21.1-10.7.19.85.jar",
+    "path": "mods/[tier1]MekanismGenerators-1.21.1-10.7.19.85.jar"
+  },
+  {
+    "mod_name": "More Mekanism Processing",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/more-mekanism-processing",
+    "version_number": "6.4",
+    "downloaded_filename": "MoreMekanismProcessing-1.21.1-6.4.jar",
+    "path": "mods/[tier1]MoreMekanismProcessing-1.21.1-6.4.jar"
+  },
+  {
+    "mod_name": "Nature's Compass",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/natures-compass",
+    "version_number": "1.21.1-3.4.0-neoforge",
+    "downloaded_filename": "NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+    "path": "mods/[tier1]NaturesCompass-1.21.1-3.4.0-neoforge.jar"
+  },
+  {
+    "mod_name": "Roughly Enough Items (REI)",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/rei",
+    "version_number": "16.0.799+neoforge",
+    "downloaded_filename": "RoughlyEnoughItems-16.0.799-neoforge.jar",
+    "path": "mods/[tier1]RoughlyEnoughItems-16.0.799-neoforge.jar"
+  },
+  {
+    "mod_name": "Roughly Enough Professions (REP)",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/roughly-enough-professions-rep",
+    "version_number": "4.0.3",
+    "downloaded_filename": "RoughlyEnoughProfessions-neoforge-1.21.1-4.0.3.jar",
+    "path": "mods/[tier1]RoughlyEnoughProfessions-neoforge-1.21.1-4.0.3.jar"
+  },
+  {
+    "mod_name": "Sophisticated Backpacks",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/sophisticated-backpacks",
+    "version_number": "1.21.1-3.25.49.1791",
+    "downloaded_filename": "sophisticatedbackpacks-1.21.1-3.25.49.1791.jar",
+    "path": "mods/[tier1]sophisticatedbackpacks-1.21.1-3.25.49.1791.jar"
+  },
+  {
+    "mod_name": "Storage Delight",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/storage-delight",
+    "version_number": "26.04.18a+1.21-neoforge",
+    "downloaded_filename": "storagedelight-26.04.18a+1.21-neoforge.jar",
+    "path": "mods/[tier1]storagedelight-26.04.18a+1.21-neoforge.jar"
+  },
+  {
+    "mod_name": "Tiny Redstone",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/tiny-redstone",
+    "version_number": "1.21.1-6.1.4",
+    "downloaded_filename": "tinyredstone-1.21.1-6.1.4.jar",
+    "path": "mods/[tier1]tinyredstone-1.21.1-6.1.4.jar"
+  },
+  {
+    "mod_name": "AeroBlender",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/aeroblender",
+    "version_number": "1.0.0",
+    "downloaded_filename": "aeroblender-1.21.1-1.0.0-neoforge.jar",
+    "path": "mods/[tier2]aeroblender-1.21.1-1.0.0-neoforge.jar"
+  },
+  {
+    "mod_name": "Ars Creo",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/ars-creo",
+    "version_number": "5.4.0",
+    "downloaded_filename": "ars_creo-1.21.1-5.4.0.jar",
+    "path": "mods/[tier2]ars_creo-1.21.1-5.4.0.jar"
+  },
+  {
+    "mod_name": "Ars Ã‰nergistique",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/ars-energistique",
+    "version_number": "2.1.1-beta",
+    "downloaded_filename": "arseng-2.1.1-beta.jar",
+    "path": "mods/[tier2]arseng-2.1.1-beta.jar"
+  },
+  {
+    "mod_name": "Man of Many Planes",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/man-of-many-planes",
+    "version_number": "0.2.1+1.21.1",
+    "downloaded_filename": "man_of_many_planes-0.2.1+1.21.1-neoforge.jar",
+    "path": "mods/[tier2]man_of_many_planes-0.2.1+1.21.1-neoforge.jar"
+  },
+  {
+    "mod_name": "More Immersive Wires",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/more-immersive-wires",
+    "version_number": "1.21.1-1.1.9",
+    "downloaded_filename": "more-immersive-wires-1.21.1-1.1.9.jar",
+    "path": "mods/[tier2]more-immersive-wires-1.21.1-1.1.9.jar"
+  },
+  {
+    "mod_name": "Advanced AE",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/advancedae",
+    "version_number": "1.6.11-1.21.1",
+    "downloaded_filename": "AdvancedAE-1.6.11-1.21.1.jar",
+    "path": "mods/[tier2ae2]AdvancedAE-1.6.11-1.21.1.jar"
+  },
+  {
+    "mod_name": "Advanced Peripherals",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/advancedperipherals",
+    "version_number": "1.21.1-0.7.61b",
+    "downloaded_filename": "AdvancedPeripherals-1.21.1-0.7.61b.jar",
+    "path": "mods/[tier2ae2]AdvancedPeripherals-1.21.1-0.7.61b.jar"
+  },
+  {
+    "mod_name": "AE2 Import Export Card",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/ae2-import-export-card",
+    "version_number": "1.21.1-1.5.0",
+    "downloaded_filename": "ae2importexportcard-1.21.1-1.5.0.jar",
+    "path": "mods/[tier2ae2]ae2importexportcard-1.21.1-1.5.0.jar"
+  },
+  {
+    "mod_name": "Applied Mekanistics",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/applied-mekanistics",
+    "version_number": "1.6.3",
+    "downloaded_filename": "Applied-Mekanistics-1.6.3.jar",
+    "path": "mods/[tier2ae2]Applied-Mekanistics-1.6.3.jar"
+  },
+  {
+    "mod_name": "ExtendedAE",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/extended-ae",
+    "version_number": "1.21-2.2.29-neoforge",
+    "downloaded_filename": "ExtendedAE-1.21-2.2.29-neoforge.jar",
+    "path": "mods/[tier2ae2]ExtendedAE-1.21-2.2.29-neoforge.jar"
+  },
+  {
+    "mod_name": "Enhanced Extinguishing",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/aether-enhanced-extinguishing",
+    "version_number": "1.21.1-1.0.0-neoforge",
+    "downloaded_filename": "aether_enhanced_extinguishing-1.21.1-1.0.0-neoforge.jar",
+    "path": "mods/[tier2aether]aether_enhanced_extinguishing-1.21.1-1.0.0-neoforge.jar"
+  },
+  {
+    "mod_name": "Protect Your Moa",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/aether-protect-your-moa",
+    "version_number": "1.21.1-1.0.0-neoforge",
+    "downloaded_filename": "aether_protect_your_moa-1.21.1-1.0.0-neoforge.jar",
+    "path": "mods/[tier2aether]aether_protect_your_moa-1.21.1-1.0.0-neoforge.jar"
+  },
+  {
+    "mod_name": "Aether Villages",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/aether-villages",
+    "version_number": "1.0.8",
+    "downloaded_filename": "AetherVillages-1.21.1-1.0.8-neoforge.jar",
+    "path": "mods/[tier2aether]AetherVillages-1.21.1-1.0.8-neoforge.jar"
+  },
+  {
+    "mod_name": "Deep Aether",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/deep-aether",
+    "version_number": "1.21.1-1.1.5.1",
+    "downloaded_filename": "deep_aether-1.21.1-1.1.5.1.jar",
+    "path": "mods/[tier2aether]deep_aether-1.21.1-1.1.5.1.jar"
+  },
+  {
+    "mod_name": "Climbable Ropes for Create Aeronautics",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/create-aeronautics-climbable-rope",
+    "version_number": "2.0.1",
+    "downloaded_filename": "climbable_ropes-2.0.1.jar",
+    "path": "mods/[tier2create]climbable_ropes-2.0.1.jar"
+  },
+  {
+    "mod_name": "Create Aeronautics",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/create-aeronautics",
+    "version_number": "1.2.1+mc1.21.1",
+    "downloaded_filename": "create-aeronautics-bundled-1.21.1-1.2.1.jar",
+    "path": "mods/[tier2create]create-aeronautics-bundled-1.21.1-1.2.1.jar"
+  },
+  {
+    "mod_name": "Create: Enchantment Industry",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/create-enchantment-industry",
+    "version_number": "2.3.1",
+    "downloaded_filename": "create-enchantment-industry-2.3.1.jar",
+    "path": "mods/[tier2create]create-enchantment-industry-2.3.1.jar"
+  },
+  {
+    "mod_name": "Create Crafts & Additions",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/createaddition",
+    "version_number": "neoforge-1.21.1-1.5.11",
+    "downloaded_filename": "createaddition-1.5.11.jar",
+    "path": "mods/[tier2create]createaddition-1.5.11.jar"
+  },
+  {
+    "mod_name": "Create Big Cannons",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/create-big-cannons",
+    "version_number": "5.11.3",
+    "downloaded_filename": "createbigcannons-5.11.3+mc.1.21.1.jar",
+    "path": "mods/[tier2create]createbigcannons-5.11.3+mc.1.21.1.jar"
+  },
+  {
+    "mod_name": "Create: Dragons Plus",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/create-dragons-plus",
+    "version_number": "1.10.1",
+    "downloaded_filename": "CreateDragonsPlus-1.10.1.jar",
+    "path": "mods/[tier2create]CreateDragonsPlus-1.10.1.jar"
+  },
+  {
+    "mod_name": "Create Goggles",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/create-goggles",
+    "version_number": "6.1.1",
+    "downloaded_filename": "creategoggles-1.21.1-6.1.1-[NEOFORGE].jar",
+    "path": "mods/[tier2create]creategoggles-1.21.1-6.1.1-[NEOFORGE].jar"
+  },
+  {
+    "mod_name": "Create Slice & Dice",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/slice-and-dice",
+    "version_number": "4.2.4",
+    "downloaded_filename": "sliceanddice-forge-4.2.4.jar",
+    "path": "mods/[tier2create]sliceanddice-forge-4.2.4.jar"
+  },
+  {
+    "mod_name": "Aethers Delight",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/the-aethers-delight",
+    "version_number": "0.1.4.2",
+    "downloaded_filename": "aethersdelight-0.1.4.2-1.21.1.jar",
+    "path": "mods/[tier2farmers]aethersdelight-0.1.4.2-1.21.1.jar"
+  },
+  {
+    "mod_name": "AE2 Delight",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/applied-energistics-delight",
+    "version_number": "1.0.2.6-1.21.x",
+    "downloaded_filename": "appliedenergisticsdelight-1.0.2.6-1.21.x.jar",
+    "path": "mods/[tier2farmers]appliedenergisticsdelight-1.0.2.6-1.21.x.jar"
+  },
+  {
+    "mod_name": "Ars Nouveau's Flavors & Delight",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/arsdelight",
+    "version_number": "2.2.1",
+    "downloaded_filename": "arsdelight-2.2.1.jar",
+    "path": "mods/[tier2farmers]arsdelight-2.2.1.jar"
+  },
+  {
+    "mod_name": "Berries And Cherries",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/berries-and-cherries",
+    "version_number": "1.1",
+    "downloaded_filename": "berries_and_cherries-1.1-neoforge-1.21.1.jar",
+    "path": "mods/[tier2farmers]berries_and_cherries-1.1-neoforge-1.21.1.jar"
+  },
+  {
+    "mod_name": "Chefs Delight",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/chefs-delight",
+    "version_number": "1.0.5",
+    "downloaded_filename": "chefsdelight-1.0.5-neoforge-1.21.1.jar",
+    "path": "mods/[tier2farmers]chefsdelight-1.0.5-neoforge-1.21.1.jar"
+  },
+  {
+    "mod_name": "Compat Delight",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/compat-delight",
+    "version_number": "1.0.1.1",
+    "downloaded_filename": "compatdelight-1.0.1.1.jar",
+    "path": "mods/[tier2farmers]compatdelight-1.0.1.1.jar"
+  },
+  {
+    "mod_name": "End's Delight",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/ends-delight",
+    "version_number": "2.5.1+neoforge.1.21.1",
+    "downloaded_filename": "ends_delight-2.5.1+neoforge.1.21.1.jar",
+    "path": "mods/[tier2farmers]ends_delight-2.5.1+neoforge.1.21.1.jar"
+  },
+  {
+    "mod_name": "Farmer's Cutting: Biomes O' Plenty",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/farmers-cutting-biomes-o-plenty",
+    "version_number": "2.0.0+mod",
+    "downloaded_filename": "farmers-cutting-biomes-o-plenty-2.0.0.jar",
+    "path": "mods/[tier2farmers]farmers-cutting-biomes-o-plenty-2.0.0.jar",
+    "sha1": "39e402ef4c5f9336973c1a0017049e19ca4e97ef",
+    "sha512": "4d7858662524b9e7369c9266e1a5c2c0f6847d86aafe40db016cbd2cee729b9eaf2e3e482942e96992d1a57a173d5c7449774dc30f38a1531c364cad179d6e93",
+    "fileSize": 53279
+  },
+  {
+    "mod_name": "Farmer's Cutting: The Aether",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/farmers-cutting-the-aether",
+    "version_number": "1.21.1-1.0-neoforge+mod",
+    "downloaded_filename": "farmers-cutting-the-aether-1.21.1-1.0-neoforge.jar",
+    "path": "mods/[tier2farmers]farmers-cutting-the-aether-1.21.1-1.0-neoforge.jar"
+  },
+  {
+    "mod_name": "Farmer's Cutting: Twilight Forest",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/farmers-cutting-twilight-forest",
+    "version_number": "1.21.1-1.0+mod",
+    "downloaded_filename": "farmers-cutting-twilight-forest-1.21.1-1.0.jar",
+    "path": "mods/[tier2farmers]farmers-cutting-twilight-forest-1.21.1-1.0.jar"
+  },
+  {
+    "mod_name": "FarmersStructures",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/aures-farmers-structures",
+    "version_number": "1.0.2",
+    "downloaded_filename": "FarmersStructures-1.0.2-1.21.1_neoforge.jar",
+    "path": "mods/[tier2farmers]FarmersStructures-1.0.2-1.21.1_neoforge.jar"
+  },
+  {
+    "mod_name": "Fruits Delight",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/fruits-delight",
+    "version_number": "1.2.14",
+    "downloaded_filename": "fruitsdelight-1.2.14.jar",
+    "path": "mods/[tier2farmers]fruitsdelight-1.2.14.jar"
+  },
+  {
+    "mod_name": "Mekanism Delight",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/mekanism-delight",
+    "version_number": "1.0.2.1-1.21.x",
+    "downloaded_filename": "mekanismdelight-1.0.2.1-1.21.x.jar",
+    "path": "mods/[tier2farmers]mekanismdelight-1.0.2.1-1.21.x.jar"
+  },
+  {
+    "mod_name": "My Nether's Delight",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/my-nethers-delight",
+    "version_number": "1.10.2",
+    "downloaded_filename": "MyNethersDelight-1.21.1-1.10.2.jar",
+    "path": "mods/[tier2farmers]MyNethersDelight-1.21.1-1.10.2.jar"
+  },
+  {
+    "mod_name": "Ocean's Delight",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/oceans-delight",
+    "version_number": "1.0.4",
+    "downloaded_filename": "oceansdelight-neoforge-1.0.4-1.21.1.jar",
+    "path": "mods/[tier2farmers]oceansdelight-neoforge-1.0.4-1.21.1.jar"
+  },
+  {
+    "mod_name": "Rustic Delight",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/rustic-delight",
+    "version_number": "1.6.1",
+    "downloaded_filename": "rusticdelight-neoforge-1.21-1.6.1.jar",
+    "path": "mods/[tier2farmers]rusticdelight-neoforge-1.21-1.6.1.jar"
+  },
+  {
+    "mod_name": "Twilight Flavors & Delight",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/twilight-delight",
+    "version_number": "3.2.1",
+    "downloaded_filename": "twilightdelight-3.2.1.jar",
+    "path": "mods/[tier2farmers]twilightdelight-3.2.1.jar"
+  },
+  {
+    "mod_name": "Biome Replacer",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/biome-replacer",
+    "version_number": "2.2-hippo-neo",
+    "downloaded_filename": "biomereplacer-2.2-hippo-neo.jar",
+    "path": "mods/[worldgen]biomereplacer-2.2-hippo-neo.jar"
+  },
+  {
+    "mod_name": "Biomes O' Plenty",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/biomes-o-plenty",
+    "version_number": "21.1.0.13",
+    "downloaded_filename": "BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar",
+    "path": "mods/[worldgen]BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar"
+  },
+  {
+    "mod_name": "Deeper and Darker",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/deeperdarker",
+    "version_number": "1.4",
+    "downloaded_filename": "deeperdarker-neoforge-1.21.1-1.4.jar",
+    "path": "mods/[worldgen]deeperdarker-neoforge-1.21.1-1.4.jar"
+  },
+  {
+    "mod_name": "Explorify",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/explorify",
+    "version_number": "v1.6.5",
+    "downloaded_filename": "Explorify v1.6.5.mod.jar",
+    "path": "mods/[worldgen]Explorify v1.6.5.mod.jar"
+  },
+  {
+    "mod_name": "Moog's End Structures",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/mes-moogs-end-structures",
+    "version_number": "2.0.3",
+    "downloaded_filename": "MoogsEndStructures-1.21-2.0.3.jar",
+    "path": "mods/[worldgen]MoogsEndStructures-1.21-2.0.3.jar"
+  },
+  {
+    "mod_name": "MMV - Moog's Missing Villages",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/mmv-moogs-missing-villages",
+    "version_number": "2.1.1",
+    "downloaded_filename": "MoogsMissingVillages-1.21-2.1.1.jar",
+    "path": "mods/[worldgen]MoogsMissingVillages-1.21-2.1.1.jar"
+  },
+  {
+    "mod_name": "Nullscape",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/nullscape",
+    "version_number": "1.2.14",
+    "downloaded_filename": "Nullscape_1.21.x_v1.2.14.jar",
+    "path": "mods/[worldgen]Nullscape_1.21.x_v1.2.14.jar"
+  },
+  {
+    "mod_name": "Repurposed Structures",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/repurposed-structures-forge",
+    "version_number": "7.5.20+1.21.1-neoforge",
+    "downloaded_filename": "repurposed_structures-7.5.20+1.21.1-neoforge.jar",
+    "path": "mods/[worldgen]repurposed_structures-7.5.20+1.21.1-neoforge.jar"
+  },
+  {
+    "mod_name": "Stony Cliffs Are Cool",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/stony-cliffs-are-cool",
+    "version_number": "1.1.2",
+    "downloaded_filename": "Stony Cliffs FML v1.1.2.jar",
+    "path": "mods/[worldgen]Stony Cliffs FML v1.1.2.jar"
+  },
+  {
+    "mod_name": "Treeplacer",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/treeplacer",
+    "version_number": "2.1.0",
+    "downloaded_filename": "treeplacer-neoforge-1.21.1-2.1.0.jar",
+    "path": "mods/[worldgen]treeplacer-neoforge-1.21.1-2.1.0.jar"
+  },
+  {
+    "mod_name": "Terralith",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/terralith",
+    "version_number": "2.5.8",
+    "downloaded_filename": "Terralith_1.21.x_v2.5.8.jar",
+    "path": "mods/[worldgen]Terralith_1.21.x_v2.5.8.jar"
+  },
+  {
+    "mod_name": "YUNG's Better Desert Temples",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/yungs-better-desert-temples",
+    "version_number": "1.21.1-NeoForge-4.1.5",
+    "downloaded_filename": "YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+    "path": "mods/[worldgen]YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar"
+  },
+  {
+    "mod_name": "YUNG's Better Dungeons",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/yungs-better-dungeons",
+    "version_number": "1.21.1-NeoForge-5.1.4",
+    "downloaded_filename": "YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+    "path": "mods/[worldgen]YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar"
+  },
+  {
+    "mod_name": "YUNG's Better End Island",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/yungs-better-end-island",
+    "version_number": "1.21.1-NeoForge-3.1.2",
+    "downloaded_filename": "YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+    "path": "mods/[worldgen]YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar"
+  },
+  {
+    "mod_name": "YUNG's Better Jungle Temples",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/yungs-better-jungle-temples",
+    "version_number": "1.21.1-NeoForge-3.1.2",
+    "downloaded_filename": "YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+    "path": "mods/[worldgen]YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar"
+  },
+  {
+    "mod_name": "YUNG's Better Mineshafts",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/yungs-better-mineshafts",
+    "version_number": "1.21.1-NeoForge-5.1.1",
+    "downloaded_filename": "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+    "path": "mods/[worldgen]YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar"
+  },
+  {
+    "mod_name": "YUNG's Better Nether Fortresses",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/yungs-better-nether-fortresses",
+    "version_number": "1.21.1-NeoForge-3.1.5",
+    "downloaded_filename": "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+    "path": "mods/[worldgen]YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar"
+  },
+  {
+    "mod_name": "YUNG's Better Ocean Monuments",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/yungs-better-ocean-monuments",
+    "version_number": "1.21.1-NeoForge-4.1.2",
+    "downloaded_filename": "YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+    "path": "mods/[worldgen]YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar"
+  },
+  {
+    "mod_name": "YUNG's Better Strongholds",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/yungs-better-strongholds",
+    "version_number": "1.21.1-NeoForge-5.1.3",
+    "downloaded_filename": "YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+    "path": "mods/[worldgen]YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar"
+  },
+  {
+    "mod_name": "YUNG's Better Witch Huts",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/yungs-better-witch-huts",
+    "version_number": "1.21.1-NeoForge-4.1.1",
+    "downloaded_filename": "YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
+    "path": "mods/[worldgen]YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar"
+  },
+  {
+    "mod_name": "YUNG's Bridges",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/yungs-bridges",
+    "version_number": "1.21.1-NeoForge-5.1.1",
+    "downloaded_filename": "YungsBridges-1.21.1-NeoForge-5.1.1.jar",
+    "path": "mods/[worldgen]YungsBridges-1.21.1-NeoForge-5.1.1.jar"
+  },
+  {
+    "mod_name": "Default Options",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/default-options",
+    "version_number": "21.1.6+neoforge-1.21.1",
+    "downloaded_filename": "defaultoptions-neoforge-1.21.1-21.1.6.jar",
+    "path": "mods/[ztier]defaultoptions-neoforge-1.21.1-21.1.6.jar"
+  },
+  {
+    "mod_name": "Global Packs",
+    "source": "modrinth",
+    "modrinth_link": "https://modrinth.com/mod/globalpacks",
+    "version_number": "21.0.6",
+    "downloaded_filename": "globalpacks-neoforge-1.21.1-21.0.6.jar",
+    "path": "mods/[ztier]globalpacks-neoforge-1.21.1-21.0.6.jar"
+  },
+  {
+    "mod_name": "Cupboard",
+    "source": "embedded_jar",
+    "reason": "no_modrinth_link",
+    "github_release_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/libcupboard-1.21-3.5.jar",
+    "path": "overrides/mods/[[[lib]]]cupboard-1.21-3.5.jar",
+    "upstream_download_url": "https://edge.forgecdn.net/files/7746/488/cupboard-1.21-3.5.jar",
+    "downloaded_filename": "cupboard-1.21-3.5.jar",
+    "curseforge_file_date": "2026-03-12T10:30:19.31Z",
+    "download_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/libcupboard-1.21-3.5.jar",
+    "release_asset_name": "libcupboard-1.21-3.5.jar",
+    "sha1": "e5f55c8f9d172048fe6f8b919cda1dbe3cbfbc70",
+    "sha512": "63a7a4caa08a12163a029dea05617169b32fb3ffff2be72cffe3f1c669a444525d117cd91763036285e560bd26c4fd277cb0c1dfc6f66c9235086c4c4c548bc5",
+    "fileSize": 26659,
+    "notes": "Downloaded from Mastery release asset and embedded in mrpack overrides."
+  },
+  {
+    "mod_name": "Json Things",
+    "source": "embedded_jar",
+    "reason": "no_modrinth_link",
+    "github_release_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/libJsonThings-1.21.1-0.13.7.jar",
+    "path": "overrides/mods/[[[lib]]]JsonThings-1.21.1-0.13.7.jar",
+    "upstream_download_url": "https://edge.forgecdn.net/files/7949/745/JsonThings-1.21.1-0.13.7.jar",
+    "downloaded_filename": "JsonThings-1.21.1-0.13.7.jar",
+    "curseforge_file_date": "2026-04-19T11:34:09.23Z",
+    "download_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/libJsonThings-1.21.1-0.13.7.jar",
+    "release_asset_name": "libJsonThings-1.21.1-0.13.7.jar",
+    "sha1": "17705ae23d6547178e6b0f576b9af127fb613990",
+    "sha512": "a697f3216587d39e0796909360e68848c47ea0dc97ae43d9411be9901e6635544d7fe65ed57c65b3518a55ec00fbe29fa8aed19bbb37f911ded97ca0a78d7ecd",
+    "fileSize": 1301987,
+    "notes": "Downloaded from Mastery release asset and embedded in mrpack overrides."
+  },
+  {
+    "mod_name": "Placebo",
+    "source": "embedded_jar",
+    "reason": "no_neoforge_1.21.1_modrinth_file",
+    "github_release_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/libPlacebo-1.21.1-9.9.1.jar",
+    "path": "overrides/mods/[[[lib]]]Placebo-1.21.1-9.9.1.jar",
+    "upstream_download_url": "https://edge.forgecdn.net/files/6926/281/Placebo-1.21.1-9.9.1.jar",
+    "downloaded_filename": "Placebo-1.21.1-9.9.1.jar",
+    "curseforge_file_date": "2025-08-25T10:59:44.943Z",
+    "download_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/libPlacebo-1.21.1-9.9.1.jar",
+    "release_asset_name": "libPlacebo-1.21.1-9.9.1.jar",
+    "sha1": "1c2b8c38066d6f36209c5dadee25c184ef65202e",
+    "sha512": "ca0f45d55ef242679ebe8ec191fb7de9882d051c9e995d6674f79f628e21e363eb60f54a7026b20093e9ab3ba773349420f6d73c5d49a23ed97998c20e8f8031",
+    "fileSize": 324056,
+    "notes": "Downloaded from Mastery release asset and embedded in mrpack overrides."
+  },
+  {
+    "mod_name": "Sable",
+    "source": "embedded_jar",
+    "modrinth_link": "https://modrinth.com/mod/sable",
+    "version_number": "1.2.2+mc1.21.1",
+    "downloaded_filename": "sable-neoforge-1.21.1-1.2.2.jar",
+    "path": "overrides/mods/[[[lib]]]sable-neoforge-1.21.1-1.2.2.jar",
+    "github_repo": "https://github.com/ryanhcode/sable",
+    "download_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/sable-neoforge-1.21.1-1.2.2.jar",
+    "sha1": "616069198f2cb68d14afe019dc5560ebaa829d77",
+    "sha512": "b8e368ab429fe6f2b3ee0e3ebfd8669af5f4331194a86fab7cc8d81c0eb2183c28edc8609f7e90453eb00113176196c1c8b74712d9088b24be9f354a94bfb513",
+    "fileSize": 12775691,
+    "release_asset_name": "sable-neoforge-1.21.1-1.2.2.jar",
+    "notes": "Downloaded from Mastery release asset and embedded in mrpack overrides."
+  },
+  {
+    "mod_name": "Configured",
+    "source": "embedded_jar",
+    "reason": "no_modrinth_link",
+    "github_release_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/clientconfigured-neoforge-1.21.1-2.6.3.jar",
+    "path": "overrides/mods/[[client]]configured-neoforge-1.21.1-2.6.3.jar",
+    "upstream_download_url": "https://edge.forgecdn.net/files/7276/577/configured-neoforge-1.21.1-2.6.3.jar",
+    "downloaded_filename": "configured-neoforge-1.21.1-2.6.3.jar",
+    "curseforge_file_date": "2025-11-30T02:21:15.073Z",
+    "download_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/clientconfigured-neoforge-1.21.1-2.6.3.jar",
+    "release_asset_name": "clientconfigured-neoforge-1.21.1-2.6.3.jar",
+    "sha1": "e977d86eec39d49295df4e2c4265d6710ae065e8",
+    "sha512": "1e5037fc7aa998d372ee22868f422e78f375a199307114493bc0a3cbd198e3c171c3d086f4f4bd063763cb35304f72f0d72867f2cd28ec83e8e27b55c8dea203",
+    "fileSize": 428793,
+    "notes": "Downloaded from Mastery release asset and embedded in mrpack overrides."
+  },
+  {
+    "mod_name": "Light Overlay",
+    "source": "embedded_jar",
+    "reason": "no_neoforge_1.21.1_modrinth_file",
+    "github_release_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/clientlight-overlay-12.0.0-neoforge.jar",
+    "path": "overrides/mods/[[client]]light-overlay-12.0.0-neoforge.jar",
+    "upstream_download_url": "https://edge.forgecdn.net/files/5553/811/light-overlay-12.0.0-neoforge.jar",
+    "downloaded_filename": "light-overlay-12.0.0-neoforge.jar",
+    "curseforge_file_date": "2024-07-22T09:17:48.257Z",
+    "download_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/clientlight-overlay-12.0.0-neoforge.jar",
+    "release_asset_name": "clientlight-overlay-12.0.0-neoforge.jar",
+    "sha1": "f15a3b88c926d2dc9d06c2b876cd89287791773c",
+    "sha512": "c0aeb86c56f13f23f7e96c8619d9e7990af999670a47dd4df08fb8f63a30d4f82b8a26737952017eecc793df43dc30a75c550fc51b470bfdb2b76baec13d2c8a",
+    "fileSize": 62920,
+    "notes": "Downloaded from Mastery release asset and embedded in mrpack overrides."
+  },
+  {
+    "mod_name": "OverloadedArmorBar",
+    "source": "embedded_jar",
+    "reason": "no_neoforge_1.21.1_modrinth_file",
+    "github_release_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/clientoverloadedarmorbar-neoforge-1.21-2.jar",
+    "path": "overrides/mods/[[client]]overloadedarmorbar-neoforge-1.21-2.jar",
+    "upstream_download_url": "https://edge.forgecdn.net/files/5537/850/overloadedarmorbar-neoforge-1.21-2.jar",
+    "downloaded_filename": "overloadedarmorbar-neoforge-1.21-2.jar",
+    "curseforge_file_date": "2024-07-16T14:54:24.587Z",
+    "download_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/clientoverloadedarmorbar-neoforge-1.21-2.jar",
+    "release_asset_name": "clientoverloadedarmorbar-neoforge-1.21-2.jar",
+    "sha1": "250b3f1a34bcaee383545761f102834475e86819",
+    "sha512": "c68b66a2043354b7563509d9da6992b85d287cfeee0bf84c296d4af3d349dad053c481a95d49a80cae1e6ad566c95bdd1b4c063cbc1fee989ff781d75e0a8f57",
+    "fileSize": 22307,
+    "notes": "Downloaded from Mastery release asset and embedded in mrpack overrides."
+  },
+  {
+    "mod_name": "Toast Control",
+    "source": "embedded_jar",
+    "reason": "no_modrinth_link",
+    "github_release_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/clientToastControl-1.21.1-9.0.1.jar",
+    "path": "overrides/mods/[[client]]ToastControl-1.21.1-9.0.1.jar",
+    "upstream_download_url": "https://edge.forgecdn.net/files/6751/464/ToastControl-1.21.1-9.0.1.jar",
+    "downloaded_filename": "ToastControl-1.21.1-9.0.1.jar",
+    "curseforge_file_date": "2025-07-10T07:02:27.877Z",
+    "download_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/clientToastControl-1.21.1-9.0.1.jar",
+    "release_asset_name": "clientToastControl-1.21.1-9.0.1.jar",
+    "sha1": "33477c2db0479c9be33d1ca3b2fa47cf6c97988c",
+    "sha512": "c4f3a8c755a493e5c2de89c7175bc687141e8689a0faf6ecac8f397dec416f68fe64a33a07088f128f521fca803954575f928f059ec0199419f1a807e54f53af",
+    "fileSize": 21079,
+    "notes": "Downloaded from Mastery release asset and embedded in mrpack overrides."
+  },
+  {
+    "mod_name": "FastFurnace",
+    "source": "embedded_jar",
+    "reason": "no_modrinth_link",
+    "github_release_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/performanceFastFurnace-1.21.1-9.0.1.jar",
+    "path": "overrides/mods/[[performance]]FastFurnace-1.21.1-9.0.1.jar",
+    "upstream_download_url": "https://edge.forgecdn.net/files/6751/551/FastFurnace-1.21.1-9.0.1.jar",
+    "downloaded_filename": "FastFurnace-1.21.1-9.0.1.jar",
+    "curseforge_file_date": "2025-07-10T07:44:52.127Z",
+    "download_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/performanceFastFurnace-1.21.1-9.0.1.jar",
+    "release_asset_name": "performanceFastFurnace-1.21.1-9.0.1.jar",
+    "sha1": "acdcdc7c61b49b3b04490fce9843dcf8b531dfc3",
+    "sha512": "cee7e5d0394abfc7cf5d50a938302746ddc0ce981f4553f9b9e5374233a3f74ecacead81cfb25e0d98d17d1f5d7ae49e80736236ac8dabb04f84db2d2ccb2760",
+    "fileSize": 4623,
+    "notes": "Downloaded from Mastery release asset and embedded in mrpack overrides."
+  },
+  {
+    "mod_name": "Fast Suite",
+    "source": "embedded_jar",
+    "reason": "no_modrinth_link",
+    "github_release_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/performanceFastSuite-1.21.1-6.0.7.jar",
+    "path": "overrides/mods/[[performance]]FastSuite-1.21.1-6.0.7.jar",
+    "upstream_download_url": "https://edge.forgecdn.net/files/7527/945/FastSuite-1.21.1-6.0.7.jar",
+    "downloaded_filename": "FastSuite-1.21.1-6.0.7.jar",
+    "curseforge_file_date": "2026-01-26T00:38:35Z",
+    "download_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/performanceFastSuite-1.21.1-6.0.7.jar",
+    "release_asset_name": "performanceFastSuite-1.21.1-6.0.7.jar",
+    "sha1": "664e62684311f727f1fac18f0de28e5317874b7e",
+    "sha512": "a3323faa44bec0713644c2cbe07b849c62f44292172d164ddc491d0dd33b3a71128b863135fed395a73723417875a729eef07e03d3f9f37229e953678b437693",
+    "fileSize": 28193,
+    "notes": "Downloaded from Mastery release asset and embedded in mrpack overrides."
+  },
+  {
+    "mod_name": "Fast Workbench",
+    "source": "embedded_jar",
+    "reason": "no_modrinth_link",
+    "github_release_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/performanceFastWorkbench-1.21.1-9.1.3.jar",
+    "path": "overrides/mods/[[performance]]FastWorkbench-1.21.1-9.1.3.jar",
+    "upstream_download_url": "https://edge.forgecdn.net/files/6751/534/FastWorkbench-1.21.1-9.1.3.jar",
+    "downloaded_filename": "FastWorkbench-1.21.1-9.1.3.jar",
+    "curseforge_file_date": "2025-07-10T07:38:42.88Z",
+    "download_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/performanceFastWorkbench-1.21.1-9.1.3.jar",
+    "release_asset_name": "performanceFastWorkbench-1.21.1-9.1.3.jar",
+    "sha1": "7343b63ded70c0546811c768118d16d3a86418ee",
+    "sha512": "46a4a445b4c3ae93d2f8c6399af7e2a2ddbdd0f6853f1a839b45ab9443aff90e89b8bff91b49a0b9ed2ad787e2584b166b0996dcf178b49bf5909085df252357",
+    "fileSize": 28635,
+    "notes": "Downloaded from Mastery release asset and embedded in mrpack overrides."
+  },
+  {
+    "mod_name": "Clean Swing",
+    "source": "embedded_jar",
+    "reason": "no_modrinth_link",
+    "github_release_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/tier0cleanswing-1.9.jar",
+    "path": "overrides/mods/[tier0]cleanswing-1.9.jar",
+    "upstream_download_url": "https://edge.forgecdn.net/files/6153/780/cleanswing-1.9.jar",
+    "downloaded_filename": "cleanswing-1.9.jar",
+    "curseforge_file_date": "2025-02-03T15:25:28.12Z",
+    "download_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/tier0cleanswing-1.9.jar",
+    "release_asset_name": "tier0cleanswing-1.9.jar",
+    "sha1": "c4746d331a9a73158da1c330f0d46ce8714ce5d8",
+    "sha512": "ffb7de39a77e8ef804fa0b6c6bd195d4d0302750b9fd1e5370863e9491fc2b08334c2d050202c7670268890e6f0195df9abcaef1bfed4775656805ced8c54bdb",
+    "fileSize": 8449,
+    "notes": "Downloaded from Mastery release asset and embedded in mrpack overrides."
+  },
+  {
+    "mod_name": "More Red",
+    "source": "embedded_jar",
+    "reason": "no_neoforge_1.21.1_modrinth_file",
+    "github_release_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/tier1morered-1.21.1-6.0.0.3.jar",
+    "path": "overrides/mods/[tier1]morered-1.21.1-6.0.0.3.jar",
+    "upstream_download_url": "https://edge.forgecdn.net/files/5763/286/morered-1.21.1-6.0.0.3.jar",
+    "downloaded_filename": "morered-1.21.1-6.0.0.3.jar",
+    "curseforge_file_date": "2024-09-28T01:08:09.317Z",
+    "download_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/tier1morered-1.21.1-6.0.0.3.jar",
+    "release_asset_name": "tier1morered-1.21.1-6.0.0.3.jar",
+    "sha1": "a69f18365301470c0fc2b07125c9ba3c10f270f6",
+    "sha512": "61d016b56cf474b82d48c479e0a21484e7dd678faeed4756f580047017644ca436bf4e1ec83e490e904b1c31e7d8365117a4461a1ebd5b1a2bd098f9335402f6",
+    "fileSize": 535669,
+    "notes": "Downloaded from Mastery release asset and embedded in mrpack overrides."
+  },
+  {
+    "mod_name": "Redomesticate",
+    "source": "embedded_jar",
+    "github_repo": "https://github.com/evanbones/Redomesticate",
+    "version_number": "1.7.0",
+    "downloaded_filename": "redomesticate-neoforge-1.21.1-1.7.0.jar",
+    "path": "overrides/mods/[tier1]redomesticate-neoforge-1.21.1-1.7.0.jar",
+    "download_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/redomesticate-neoforge-1.21.1-1.7.0.jar",
+    "sha1": "afbbe358a84dfd99df5d7bbf1b43d9f21dcb1303",
+    "sha512": "ea422a86767170f9ade77825920c67238424733fdfc277bf8819bc4f4c481073389d2ade98f856abba91dd690e8e3f7f43a0df72521e78f0cddfc85210421837",
+    "fileSize": 1030975,
+    "release_asset_name": "redomesticate-neoforge-1.21.1-1.7.0.jar",
+    "notes": "Downloaded from Mastery release asset and embedded in mrpack overrides."
+  },
+  {
+    "mod_name": "The Twilight Forest",
+    "source": "embedded_jar",
+    "reason": "no_modrinth_link",
+    "github_release_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/tier1twilightforest-1.21.1-4.8.3345-universal.jar",
+    "path": "overrides/mods/[tier1]twilightforest-1.21.1-4.8.3345-universal.jar",
+    "upstream_download_url": "https://edge.forgecdn.net/files/7797/302/twilightforest-1.21.1-4.8.3345-universal.jar",
+    "downloaded_filename": "twilightforest-1.21.1-4.8.3345-universal.jar",
+    "curseforge_file_date": "2026-03-22T23:06:08.62Z",
+    "download_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/tier1twilightforest-1.21.1-4.8.3345-universal.jar",
+    "release_asset_name": "tier1twilightforest-1.21.1-4.8.3345-universal.jar",
+    "sha1": "9cfd4154928433e2f1f6cfc3deb48c284debb580",
+    "sha512": "371dd7079b174091363327df70ed64c84e8e36fcab49b4c33bbcbe39650f6bccc12d3e14818cdfbbaa519a999f64a0a92c03ec981f55a315b044dc7cb5c27ef4",
+    "fileSize": 27154121,
+    "notes": "Downloaded from Mastery release asset and embedded in mrpack overrides."
+  },
+  {
+    "mod_name": "AE2 Things",
+    "source": "embedded_jar",
+    "reason": "no_neoforge_1.21.1_modrinth_file",
+    "github_release_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/tier2ae2AE2-Things-1.4.2-beta.jar",
+    "path": "overrides/mods/[tier2ae2]AE2-Things-1.4.2-beta.jar",
+    "upstream_download_url": "https://edge.forgecdn.net/files/5637/783/AE2-Things-1.4.2-beta.jar",
+    "downloaded_filename": "AE2-Things-1.4.2-beta.jar",
+    "curseforge_file_date": "2024-08-17T15:33:57.78Z",
+    "download_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/tier2ae2AE2-Things-1.4.2-beta.jar",
+    "release_asset_name": "tier2ae2AE2-Things-1.4.2-beta.jar",
+    "sha1": "593ad26ae4143f529a63cc63b96c6430ebba67c3",
+    "sha512": "0ac412ad702921fe92ceef72267214284958e6880c2d3ac0a50289f328c69e8d8ec91080bd243279bdb04a87298e6c505020baa07e16d123f2d5a988091409b1",
+    "fileSize": 66034,
+    "notes": "Downloaded from Mastery release asset and embedded in mrpack overrides."
+  },
+  {
+    "mod_name": "AE2:Crafting Tree",
+    "source": "embedded_jar",
+    "reason": "no_modrinth_link",
+    "github_release_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/tier2ae2ae2ct-1.21.1-1.1.1.jar",
+    "path": "overrides/mods/[tier2ae2]ae2ct-1.21.1-1.1.1.jar",
+    "upstream_download_url": "https://edge.forgecdn.net/files/7182/163/ae2ct-1.21.1-1.1.1.jar",
+    "downloaded_filename": "ae2ct-1.21.1-1.1.1.jar",
+    "curseforge_file_date": "2025-11-03T14:17:12.06Z",
+    "download_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/tier2ae2ae2ct-1.21.1-1.1.1.jar",
+    "release_asset_name": "tier2ae2ae2ct-1.21.1-1.1.1.jar",
+    "sha1": "2e425a9dc8891bdcd3b2914506d1bc33414b61be",
+    "sha512": "e3972c2eadbb643c2be9ad0d4bf409f32c8aa60774084ac7c27593af41be555fc4fceaa7004a6198a14caa8dd878cd7a94a7374408520e3aeaa26231b3470bf6",
+    "fileSize": 437906,
+    "notes": "Downloaded from Mastery release asset and embedded in mrpack overrides."
+  },
+  {
+    "mod_name": "AE2NetworkAnalyzer",
+    "source": "embedded_jar",
+    "reason": "no_modrinth_link",
+    "github_release_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/tier2ae2AE2NetworkAnalyzer-1.21-2.1.5-neoforge.jar",
+    "path": "overrides/mods/[tier2ae2]AE2NetworkAnalyzer-1.21-2.1.5-neoforge.jar",
+    "upstream_download_url": "https://edge.forgecdn.net/files/7622/554/AE2NetworkAnalyzer-1.21-2.1.5-neoforge.jar",
+    "downloaded_filename": "AE2NetworkAnalyzer-1.21-2.1.5-neoforge.jar",
+    "curseforge_file_date": "2026-02-14T06:21:19.387Z",
+    "download_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/tier2ae2AE2NetworkAnalyzer-1.21-2.1.5-neoforge.jar",
+    "release_asset_name": "tier2ae2AE2NetworkAnalyzer-1.21-2.1.5-neoforge.jar",
+    "sha1": "c6cb26a2031687d801bf1763dc0c75cd92f3715c",
+    "sha512": "49fce362c9874952fc2c8259573f4ac00a075571786a41374f947408d19caa09bdb817ef5302f4b453b06498f603cd9e153c1589a50043945b4614c5665862e1",
+    "fileSize": 1686091,
+    "notes": "Downloaded from Mastery release asset and embedded in mrpack overrides."
+  },
+  {
+    "mod_name": "The Aether: Redux",
+    "source": "embedded_jar",
+    "reason": "no_neoforge_1.21.1_modrinth_file",
+    "github_release_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/tier2aetheraether_redux-1.21.1-2.1.00-pre1-neoforge.jar",
+    "path": "overrides/mods/[tier2aether]aether_redux-1.21.1-2.1.00-pre1-neoforge.jar",
+    "download_url": "https://github.com/alchemyyy/MasteryModpack/releases/download/1.0.0/tier2aetheraether_redux-1.21.1-2.1.00-pre1-neoforge.jar",
+    "release_asset_name": "tier2aetheraether_redux-1.21.1-2.1.00-pre1-neoforge.jar",
+    "sha1": "053c7b17bb90c51429f85f28b4387a5d530a566d",
+    "sha512": "c47bc153e12cc681abcda4c4ebbbed10e80eafa1055487afa3fef59fd89d8294bd2adc0fdd774543706e9a9478e7b885fd3cb46c015add54c55ec1bc9ac2799d",
+    "fileSize": 4897716,
+    "notes": "Downloaded from Mastery release asset and embedded in mrpack overrides."
+  },
+  {
+    "mod_name": "Async",
+    "source": "embedded_jar",
+    "modrinth_link": "https://modrinth.com/mod/async",
+    "version_number": "0.2.1+alpha-1.21.1",
+    "downloaded_filename": "async-neoforge-0.2.1+alpha-1.21.1.jar",
+    "path": "overrides/mods/async-neoforge-0.2.1+alpha-1.21.1.jar",
+    "sha1": "3cdd7345f5620c79c36491c634a07bb25a0453f8",
+    "sha512": "6af09c8cb5f1be8aa4764a8c2e17e7f4f59f017f1ba9e60951722a4a4c7e09e99ef5b74ee754525bcfc4dc6c60ee6f55b5b9642f981efd41e0470f0e474b285f",
+    "fileSize": 339510,
+    "notes": "Embedded in mrpack overrides; download index entry removed."
+  },
+  {
+    "mod_name": "Superior Lawn",
+    "source": "embedded_jar",
+    "download_url": "https://cloud.proxius.net/dav/public-files/WWsRHuuEcAYdUAr/superiorlawn-2.0.4.jar",
+    "version_number": "2.0.4",
+    "downloaded_filename": "superiorlawn-2.0.4.jar",
+    "path": "overrides/mods/superiorlawn-2.0.4.jar",
+    "sha1": "0de7d1036169b77792b0b5696f51a0661b2bc9b8",
+    "sha512": "9a6091bddca236b4e563f71f1163c889381d6f17a024b48bbddadd0f587fadf5ce0e7641ad7f91c97dc75215f291a8eda3872df882cce277a32c80efb98cc5fb",
+    "fileSize": 819071,
+    "notes": "Private mod binary embedded in mrpack overrides as requested."
+  }
+]
